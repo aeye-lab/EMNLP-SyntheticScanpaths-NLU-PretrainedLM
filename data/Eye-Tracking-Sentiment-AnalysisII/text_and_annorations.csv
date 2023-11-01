@@ -1,0 +1,995 @@
+Text_ID,Text,Default_Polarity,Aspect,Source,Sarcasm,P1,P2,P3,P4,P5,P6,P7
+1,I work 40 hours a week to be this poor,-1,Work,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+2,Nice perfume. Must you marinate in it?,-1,Perfume,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+3,Suburbia: where they tear out the trees and then name streets after them.,-1,Human,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+4,This isnt an office. Its Hell with fluorescent lighting.,-1,Office,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+5,Dont bother me. Im living happily ever after.,-1,My present state,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,1,-1,1,-1,-1
+6,Sometimes I need what only you can provide: your absence.,-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+7,"I feel so miserable without you, it's almost like having you here.",-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+8,"I never forget a face, but in your case I'll be glad to make an exception.",-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+9,The trouble with her is that she lacks the power of conversation but not the power of speech.,-1,She,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,1,-1
+10,Weather forecast for tonight: dark.,-1,Meterological department,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,1
+11,"You see, money's not everything in life is it? But it keeps you in touch with your children.",-1,Money,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,-1,-1,1,-1,-1
+12,"I always wanted to be somebody, but now I realize I should have been more specific.",-1,My life,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+13,"Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself.",-1,Congress,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+14,It's a catastrophic success.,-1,Result,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,1,1
+15,History teaches us that men and nations behave wisely once they have exhausted all other alternatives.,-1,Men ans nations,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,1
+16,Marry me and I'll never look at another horse!,-1,Marriage,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,-1,-1
+17,"If you find it hard to laugh at yourself, I would be happy to do it for you.",-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+18,Marriage is the chief cause of divorce.,-1,Marriage,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+19,"I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.",-1,Television for education,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,1,-1,-1,-1,-1
+20,"I was supposed to like the play, but then I saw it under adverse conditions - the curtain was up.",-1,Play,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+21,"Some cause happiness wherever they go, others whenever they go.",-1,Others,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,1
+22,"He has no enemies, but is intensely disliked by his friends.",-1,He,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,-1,-1
+23,He was happily married - but his wife wasn't.,-1,Marriage,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+24,Honesty is the best policy -- when there is money in it.,-1,Money,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,1,1
+25,"I would like to live in Manchester, England. The transition between Manchester and death would be unnoticeable.",-1,Manchester city,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+26,"I have never killed a man, but I have read many obituaries with great pleasure.",-1,Obituaries,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,1,1,-1,-1,-1
+27,You have delighted us long enough.,-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,1,-1,-1,-1,1
+28,"A modest little person, with much to be modest about.",1,Person,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,-1,-1,-1,1,1
+29,He has never been known to use a word that might send a reader to the dictionary.,-1,His vocabulary,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,1
+30,He loves nature in spite of what it did to him.,-1,His condition,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,1
+31,"The old system of having a baby was much better than the new system, the old system being characterized by the fact that the man didn't have to watch.",-1,Delivery sight,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,-1
+32,"Love: a temporary insanity, curable by marriage.",-1,Love,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,1,-1,1,-1
+33,Man is the only animal that can remain on friendly terms with the victems he intends to eat until he eats them.,-1,Man,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+34,Every time I look at you I get a fierce desire to be lonesome.,-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+35,The trouble with a kitten is that it eventually beomes a cat.,-1,Cat,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+36,I wish we were better strangers.,-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+37,I'll always cherish the original misconception I had of you.,-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,-1,-1
+38,I tended to place my wife under a pedestal.,-1,Wife,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+39,We didn't lose the game; we just ran out of time.,-1,Result of the game,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,1
+40,When I was a kid I used to pray every night for a new bicycle. Then I realised that the Lord doesn't work that way so I stole one and asked Him to forgive me.,-1,Lord,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,1
+41,He never slows down to think; it's too painful to spend times with his own thoughts.,-1,His thoughts,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+42,The problem with common sense is that most people are morons.,-1,Common sense,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+43,Personal experience makes a believer out of anyone; that explains the hordes of evolution deniers.,-1,Evolution,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,1,-1,1,-1
+44,They worship the ground that he walks away from.,-1,He' as a person,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,-1,1
+45,"I find it rather easy to portray a businessman. Being bland, rather cruel and incompetent comes naturally to me.",-1,Businessman,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,1
+46,Sometimes the road less traveled is less traveled for a reason.,-1,The 'road',http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,-1
+47,"If you don't read the newspaper, you are uninformed; if you do read the newspaper, you are misinformed.",-1,Newspapers,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+48,"I don't know if God exists, but it would be better for His reputation if He didn't.",-1,God,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,-1,-1
+49,Artificial intelligence is no match for natural stupidity.,-1,Artificial Intelligence,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,-1,1
+50,"100,000 sperm and you were the fastest?",-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,-1,-1,1,-1,-1
+51,The consumer isn't a moron; she is your wife.,-1,Wife,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+52,I thank God that you are unique!,1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,-1,1,1,1,1
+53,"You can be whatever you want; however, in your case you should probably aim low.",-1,You,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+54,Do something productive. Stop being yourself.,-1,You' as an employee,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+55,"I want either less corruption, or more chance to participate in it.",-1,Corruption,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,-1,-1
+56,The time for action is past! Now is the time for senseless bickering!,-1,The Present,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,1,-1,-1,-1
+57,A consensus means that everyone agrees to say collectively what no one believes individually.,-1,Consensus,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,1,1
+58,"I would like to take you seriously, but to do so would be an affront to your intelligence.",-1,Your intelligence,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+59,Martyrdom: The only way a man can become famous without ability.,-1,Martyrdom,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,1
+60,I sometimes think that God in creating man somewhat overestimated his ability.,-1,Men,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,-1,-1
+61,One should always be in love. That is the reason one should never marry.,-1,Marriage,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,-1
+62,"The world is a stage, but the play is badly cast.",-1,World,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,1,-1,-1
+63,Why was I born with such contemporaries?,-1,My contemporaries,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+64,"Facts are stubborn, but statistics are more pliable.",1,Statistics,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,1,1,-1,1,1
+65,I have been complimented many times and they always embarrass me; I always feel that they have not said enough.,-1,Myself,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,1,1,-1,-1,-1
+66,I never let schooling interfere with my education.,-1,Schooling,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+67,Patriot: the person who can holler the loudest without knowing what he is hollering about.,-1,Patriot,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,-1,-1,-1
+68,We have the best government that money can buy.,-1,Government,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,-1,-1,-1,-1
+69,"Even if you do learn to speak correct English, whom are you going to speak it to?",-1,The listener,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+70,When I was a boy I was told that anybody could become President; I'm beginning to believe it.,-1,President,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,-1,-1,-1,-1,-1
+71,99% of lawyers give the rest a bad name.,-1,Lawers,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+72,Advertisements contain the only truths to be relied on in a newspaper.,-1,Newspapers,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,-1,1,-1,-1,-1
+73,Any girl can be glamorous. All you have to do is stand still and look stupid.,-1,Glamour,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+74,"Drawing on my fine command of the English language, I said nothing.",-1,Proficiency,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+75,Electricity is really just organized lightning.,1,Electricity,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,1,1,1,-1,1,1
+76,I don't want to achieve immortality through my work. I want to achieve it through not dying.,-1,work,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+77,I haven't spoken to my wife in years. I didn't want to interrupt her.,-1,wife,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,1,-1,-1
+78,I was married by a judge. I should have asked for a jury.,-1,marriage,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+79,"My mechanic told me, 'I couldn't repair your brakes, so I made your horn louder.'",-1,Mechanic,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,-1
+80,"The National Rifle Association says, 'Guns don't kill people. People do'. But I think the gun helps.",1,Guns,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,1,-1,-1,1,1,1
+81,She's the kind of girl who climbed the ladder of success wrong by wrong.,-1,She,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,-1,1
+82,"Sambit and team, in your enthusiasm to create something new and different, you have ended up ruining a perfectly fine, immensely loved website",-1,Website,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,1,-1,1,-1,-1,1,-1
+83,Expect a 1260x254 pixel ad at the top! We will love the website for sure.,-1,Website,http://www.sarcasmsociety.com/sarcastic-quotes.html,Yes,-1,-1,-1,-1,-1,1,-1
+84,"Oh wow broken up for days and you've moved on already, thanks, don't feel like shit at all.",-1,You,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+85,Good thing I have work till close tonight,-1,Work,SocialMedia,Yes,-1,-1,-1,1,1,-1,-1
+86,Can't wait to go to class today,1,class,SocialMedia,Yes,1,1,1,-1,1,-1,1
+87,No my roommate playing out of tune Zeppelin songs right outside my door isn't annoying. Not at all,-1,Roommate,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+88,thank god it's raining so now my hair will look fabulous for my senior pictures,-1,Hair,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+89,Awkward eye contact is just fantastic,-1,eye contact,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+90,I love when I see people using the elevator at the gym,-1,people,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+91,Doesn't everyone love getting allergy shots once a week?,-1,allergy,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+92,I Love when you don't have two minutes to send me a quick text.,-1,love,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+93,yay for awkward 2 hour breaks between classes,-1,break,SocialMedia,Yes,-1,-1,-1,-1,1,-1,1
+94,Can't wait until Friday when we get to wear our band uniforms in 39 degree weather,-1,weather,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+95,You know what I love doing? Rehashing old arguments.,-1,old arguments,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+96,"that's cool, dangelos, take your time making my food. it's not like I have a time limit for my break or anything.",-1,food making,SocialMedia,Yes,-1,-1,1,-1,1,-1,-1
+97,"Oh hey, let me talk to another dentist about our kids field trips while i poke the shit outta your mouth!' I love the dentist.",-1,dentist,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+98,I just love having my eyes water when I sneeze.,-1,eyes,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+99,Awsome homework on the first day. That's just what I wanted,-1,homework,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+100,"I love men that apologize and don't know why they've upset you in the first place, makes me smile to know you listened and adjusted",1,men,SocialMedia,Yes,1,-1,-1,-1,1,1,1
+101,Yep that rapping guy TOTALLY makes me want to go to your school.,-1,Schooling,SocialMedia,Yes,1,1,-1,-1,1,-1,-1
+102,Locking your keys in your car at school is the best feeling in the entire world.,-1,locked keys,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+103,I love waiting in long lines for a parking permit,-1,waiting,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+104,My husband has two days off from work. We're spending it in the the hospital,-1,hospital,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+105,If I could put into words how much I love waking up at 5 am on Tuesday's I would.,-1,waking up early,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+106,"I love when I'm doing dishes at work & the water spills all over me, its the best .",-1,water spilling,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+107,Make sure you take a really long time to text me back.,-1,Your texting habit,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+108,My anatomy teacher decided that its the first day so lets stay in class for the entire 4 hours. awesome,-1,teacher,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+109,I just love freaking being ignored and not texted back. 3 people ignored me today 3! I love it it always makes my day.,-1,My present state,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+110,absolutely delighted to still be awake at this hour.,-1,awake,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+111,That plan to go to bed earlier in preparation for school went well.,-1,going to bed earlier,SocialMedia,Yes,1,1,-1,-1,-1,-1,1
+112,So excited to get up at 5 a.m. tomorrow!!,-1,waking up early,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+113,Could I be more glaaaaad that everyone in my house is in such a great mooood?,-1,Mood,SocialMedia,Yes,1,1,1,-1,-1,-1,-1
+114,Soo excited to try to sleep with my back hurting,-1,Health,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+115,Wow! Thanks for the option of high speed internet at $590 for 6 months to save $10.,-1,Internet Scheme,SocialMedia,Yes,-1,-1,1,-1,1,-1,-1
+116,I'm ending my summer off great sitting inside all day doing nothing,-1,My present state,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+117,I'd like to give a shout out to all the people who text me for a minute then stop responding. You make dreams a reality,-1,people,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+118,"Well that was fun. Well, really?",-1,Fun,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+119,Yaay for going into to grade 12 but looking like a niner,-1,Looks,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+120,Can't wait to wake up early to babysit!,-1,Baby sitting,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+121,I don't think I'll be able to make it through a whole day tomorrow at school without breaking down. So that's cool.,-1,Tomorrow's school,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+122,I love it when you put your hand in my face while you sleep,-1,Your sleeping habit,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+123,I love feeling like a second choice.,-1,Choice,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+124,So happy to just find out IIT decided to reschedule all my lectures and tutorials for me to night classes at the exact same times!,-1,lecture timings,SocialMedia,Yes,1,-1,-1,1,-1,-1,-1
+125,I really like it when I ask an important question &don't get an answer. I hope this keeps up I like it so much :),-1,Response,SocialMedia,Yes,-1,-1,-1,1,-1,-1,-1
+126,I love when my retainers are super tight and make me talk so attractively!,-1,retainers,SocialMedia,Yes,1,-1,-1,1,1,-1,-1
+127,20 minutes of laundry at 1 am. Awesome,-1,laundry,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+128,So glad i'm losing sleep over someone I barely know.,-1,My present state,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+129,Who dosent want to be invited to a foam party with a bunch of kids running around half naked.,-1,foam party,SocialMedia,Yes,-1,1,-1,-1,1,-1,-1
+130,Looking forward to staring at the ceiling until I fall asleep,-1,Sleep habit,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+131,My train got cancelled. Good way to start the day!,-1,Day,SocialMedia,Yes,1,-1,-1,1,-1,-1,-1
+132,"packing is so much fun! Infact, my favorite time pass..",-1,packing,SocialMedia,Yes,1,-1,1,-1,1,-1,-1
+133,Just another original apple invention. A notification shade that keeps popping up. Where do they come up with this stuff.,-1,notification shade,SocialMedia,Yes,-1,1,-1,-1,1,-1,-1
+134,"Yeah, just ignore me. That TOTALLY the right way to handle this!",-1,this',SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+135,Walkin up 20 flights of stairs quickly just 2 get 2 work.,-1,Work,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+136,"Yes you hotel guests, please take your pet elephant for a walk outside the room at 4am, when normal people are trying to sleep",-1,Guests,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+137,Injections are fun. Who does not want them?,-1,injections,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+138,"Mirrors cant talk, lucky for you they cant laugh either.",-1,You,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+139,Zombies eat brains. Youre safe.,-1,You,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+140,"I dont believe in plastic surgery, But in your case, Go ahead",-1,You,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+141,"If moneys the god people worship, Id rather go worship the devil instead.",-1,Money,SocialMedia,Yes,-1,-1,-1,-1,-1,1,-1
+142,Nobody should have to die to a soundtrack like this,-1,Sountrack,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+143,"I was debating on jumping and ending my despair over losing my best friend, but I decided to call you instead.",-1,You,SocialMedia,Yes,-1,-1,-1,1,1,1,-1
+144,Aren't you supposed to say that everything is going to be okay?,-1,Everything,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+145,"Son, my dad said, every man needs a bitter, resentful woman in his life. Because there's nothing more touching to a mother's heart than to know that her son thinks of her constantly.",1,Women,SocialMedia,Yes,1,1,-1,1,-1,1,-1
+146,The great thing about the Internet isn't that you can reconnect with old friends or stay up to date with developing world events or send pictures of newborns immediately around the world. It is simply that you can log on to jcpenney.com from anywhere and order fresh underwear immediately after seeing your life flash before your eyes.,-1,Internet,SocialMedia,Yes,1,1,-1,-1,-1,1,-1
+147,You're one of those people who fall off a tree and never quite reach the ground.,-1,You,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+148,"Celaena?' Sam asked into the dark. 'Should I worry about going to sleep?' \n She blinked, then laughed under her breath. At least Sam took her threats somewhat seriously.",-1,Her importance,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+149,"I do not agree with what you have to say, but I will defend till death your right to say it",1,Your saying,SocialMedia,Yes,1,1,1,-1,1,1,1
+150,And Ill wager you thought him the handsomest thing that ever you saw in your life.,-1,His looks,SocialMedia,Yes,-1,1,1,-1,-1,-1,1
+151,My life is worth living said the Scorpion and showed his sting,-1,Life,SocialMedia,Yes,1,-1,-1,-1,-1,-1,1
+152,Kelly was not going to remove her glasses. No matter what the television said about it being safe to do during the 'totality'. The television also told her she wouldn't age if she bought expensive creams and pills,-1,Television for education,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+153,Ah yes. Lord save me from lovely young women.,-1,My love llife,SocialMedia,Yes,-1,-1,-1,1,1,-1,-1
+154,It is not necesssary to understand things in order to argue about them.,-1,Arguments,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+155,"As far as bad ideas went, this stole the prize.",-1,this idea,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+156,"Look at the world and think about a catastrophic disaster where the cell phone towers went dead. How would you ever be able to 'TEXT"" your next door neighbor to see if they were okay",-1,Cellphone's effect on life,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+157,The cleanest civilization Ive ever seenand the number one thing you pack for a wedding is a jar of dirt?,-1,cleanliness,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+158,"I love having a runny nose. No really, this is just what I wanted",-1,health,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+159,Went to sleep at 5pm woke up at 2 a.m. Jet lag is just an all round good time,-1,jet lag,SocialMedia,Yes,1,-1,1,-1,-1,-1,-1
+160,"Didn't even sleep on a pillow, this is gonna be fun for me with all this damn pain",-1,Health,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+161,Getting a plastic fish thrown at me by a one and a half year old is a great experience,-1,child,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+162,I love it whenever my brother gets up and turns on all the lights.,-1,Brother turning on lights,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+163,I feel like I'm going to throw up. Today is going to be grand.,-1,Today,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+164,"Lots of windshield time today,can't wait.",-1,winter,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+165,Abstinence-only sex education dominates in state with highest teen pregnancy. Seems to be working,-1,abstinence-only sex education,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+166,Great way to start the morning by dumping makeup all over myself!,-1,makeup,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+167,It feels great to know my car is on E and gas is 4 bucks a gallon,-1,price of gas,SocialMedia,Yes,-1,-1,-1,1,-1,-1,-1
+168,Wow algebra is the best way to start off my day.,-1,algebra,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+169,I always know its gonna be a good day when I wake up late and literally have 10 minutes to get ready,-1,Today,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+170,Ahh it makes me feel really special and loved when you don't text me back!,-1,Your texting habit,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+171,My oatmeal exploded in the microwave. What a great start to my day!,-1,Start of the day,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+172,Weed wippin in the rain and lightning! Always fun and not dangerous!,-1,weed,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+173,Thank you alarm clock for never going off.,-1,alarm clock,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+174,"wow perfect then you need wait at home ready , waiting their call, very funny",-1,waitnig,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+175,"your lucky, most of my teachers said I would always have homework. Yay!",-1,homework,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+176,I love it when the bus smells like cat piss and dirty laundry!,-1,the bus,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+177,Yay. School. If you could only see the joy on my face.,-1,school,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+178,"Going from one babysitting job to another babysitting job, then another babysitting job today. This will be fun.",-1,Switching job,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+179,"Wow these girls are talking about smoking, you'r so cool.",-1,smoking,SocialMedia,Yes,-1,-1,-1,1,1,-1,-1
+180,Gotta love spending lunch break queuing at the bank,-1,queues in the bank,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+181,morning people. roadtrip today. unfortunately that means sitting in the car with my family for 3 or 4 hours. yay!,-1,road trip with family,SocialMedia,Yes,-1,-1,1,1,-1,-1,-1
+182,Gee wiz what a great day so far. You can cut the tension with a knife and they think im faking,-1,Day so far,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+183,Have you ever been so cool that the only way you know how to park your car is by backing it into a parking spot?,-1,My parking knowledge,SocialMedia,Yes,-1,1,-1,-1,-1,-1,1
+184,Haha wow it's amazing how some seniors can leave after fourth period,-1,seniors,SocialMedia,Yes,1,-1,-1,1,-1,-1,-1
+185,"Oh no, it's okay. I would love to just sit around waiting in financial aid all day because its not like I have anything else to do",-1,waiting,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+186,What beautiful passport photos I just took. Should put it as my profile pic to scare friends,-1,Photo,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+187,Visit to the dentist and changing a flat - two of my favorite things in one morning. Talk about stars aligning!,-1,my day so far,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+188,Absolutely love when water is spilt on my phone. Just love it.,-1,Phone's condition,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+189,"Post all your inside jokes over facebook, I really want to hear about them",-1,Posting inside jokes on Facebook,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+190,Love walking through your cloud of cigarette smoke. Why buy my own pack when I can just inhale yours,-1,Indirect inhaling,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+191,Thanks for telling us the class catalogue was finally up for DL four days before school starts.,-1,Putting up the catalogue,SocialMedia,Yes,-1,-1,1,-1,-1,-1,1
+192,absolutely LOVE coming back to work - to a day of nothing but meetings,-1,Meetings,SocialMedia,Yes,-1,-1,1,-1,1,-1,-1
+193,Your perfect relationship is over ? Didn't see that one coming .,-1,Relationship,SocialMedia,Yes,-1,1,-1,-1,-1,-1,-1
+194,you know what a great feeling is? getting the exfoliating beads from face wash in your eye.,-1,Face wash,SocialMedia,Yes,-1,-1,-1,1,-1,-1,-1
+195,Two classes on the engineering quad. Not out of place at all.,-1,Classes,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+196,"Oversleeping for my 9 o'clock class and chapel, then waking up with a huge migraine.",-1,Health,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+197,Mega shark vs giant octopus. How did this film not win an oscar?,-1,Mega shark vs giant octopus,SocialMedia,Yes,-1,1,-1,1,1,-1,-1
+198,That 100 degree heat index made that one of my most enjoyable runs to date!!,-1,Today's run,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+199,LOL getting called uneducated by someone who can't spell 'sense' or 'sentence',-1,someone,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+200,"Miley Cyrus quotes the Buddha. Wow, isn't she a dedicated Christian, just like she always says!",-1,Miley Cyrus,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+201,Im glad I pay a shit ton of money to come to this school and do absolutely nothing all day.,-1,School,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+202,The school board's wisest budget cut has to be the one that includes new MacBook's for faculty members.,-1,School's budget cut,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+203,"When your mom goes partying for her 40th birthday in Tunisia and you're stuck at home reading books, living the life",-1,Life,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+204,I hate it when I don't forward a chain mail and I die the next day.,-1,Chain mails,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+205,Cool lets not fix the things you don't need parts for and don't tell me we need to order other parts,-1,Fixing,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+206,I can't even describe how excited I am to go cook noodles for 3 hours.,-1,Cooking noodles,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+207,I can't even wait to go sit at this meeting at the highschool,-1,Meetings,SocialMedia,Yes,1,-1,-1,-1,1,-1,-1
+208,Going in to work for 2 hours was totally worth the 35 min drive!,-1,Drive,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+209,"No. Sitting in a full waiting room, wearing a three sizes too big hospital gown isn't the worst thing to happen to me today.",-1,Health,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+210,Powering through these physics questions. Getting them all wrong in the process. Yuss!,-1,Physics,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+211,"Wow, kids drinking vodka in the back of the room during a lecture. You guys are classy.",-1,Kids,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+212,Oh u can ride ur bike with no hands? Your so impressive,-1,Your riding skills,SocialMedia,Yes,-1,-1,-1,-1,1,-1,1
+213,talking about how crazy your night is going to get tonight in class makes you sound sooo cool.,-1,Talking,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+214,Ahh don't you just love when Microsoft tells you that you're spelling your own name wrong,-1,Microsoft,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+215,There's literally nothing to eat in my house but cheese burger hot pockets. Mmm how gourmet.,-1,cheese burger hot pockets,SocialMedia,Yes,-1,-1,-1,-1,1,-1,1
+216,So glad I'm retaking physics. It's even more fun the second time around! Asian Accents are so easy to understand!,-1,Asian Accents,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+217,"Yeah, I'm all about to marry someone serving life in prison. Makes perfect sense.",-1,My marriage plans,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+218,its amazing how much i cant stand edinboro and its professors right now,-1,Edinboro,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+219,Almost got ran over today while crossing the street with the walk sign. I love people.,-1,people,SocialMedia,Yes,1,-1,-1,-1,-1,1,-1
+220,Guess I'll study Art Appreciation some more & write my Ethics papers! Oh how fun!,-1,Art appreciation study,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+221,I totally enjoy when my managers tell me I look 'hit' all the time.,-1,managers,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+222,Oh my. Saas-bahu serial is on its last season.I think I need a tissue,-1,Jersey Shore,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,1
+223,The campus police here at USI are so friendly. They left me a nice little present on my car!,-1,Police,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+224,I love how 2 of the most disrespectful girls on the team are captains! Just Love It :),-1,Captain,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+225,"People protesting in favour of 'men's affairs' in front of Parliament - yes, the poor plight of the middle class white man.",-1,Protest,SocialMedia,Yes,1,1,-1,-1,-1,-1,-1
+226,I love the fact my neighbors decided to move all their furniture at this time at night,-1,Neighbours,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+227,Being allergic to my own house is one of the greatest things ever.,-1,My house,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+228,Please send me more invites to get the dislike button. The first 500 were clearly not enough.,-1,Invitations,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+229,Thank God the Romney Campaign is really specific on their policies and don't lie to Americans straight to their face.,1,Romney Campaign,SocialMedia,Yes,-1,-1,1,1,1,1,-1
+230,Glad I left you all in charge! I mean look at all that you got accomplished that we actually needed done!,-1,Your ability,SocialMedia,Yes,-1,1,-1,1,-1,-1,-1
+231,"Best part of being a new mom: unwarranted, condescending advice from strangers.",-1,Being a mom,SocialMedia,Yes,-1,-1,-1,-1,-1,1,-1
+232,Nothing like getting stuck babysitting! You get to watch the Disney channel all day!,-1,Baby sitting,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+233,Stay up till 2AM to talk to you for 30 seconds how sweet of you!,-1,You,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+234,"Took sleeping meds 3 hours ago, glad to see they're working !!",1,Sleeping medicines,SocialMedia,Yes,1,-1,1,-1,1,1,-1
+235,My first head cold in I don't remember how long. Which is awesome timing as I have so much energy to spare!,-1,Cold,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+236,"Breaking news: After the excitement of finishing filing all the B's yesterday, today I start on the C's. Work is so exciting!",-1,Work,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+237,"Feels great when I can't sleep, especially when all I want to do is talk to you.",-1,Feeling,SocialMedia,Yes,1,-1,-1,-1,-1,-1,1
+238,"Haven't been able to sleep, so I've been playing Words With Friends and Angry Birds all night. What a thrilling life I lead.",-1,Life,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+239,It's nice to wake up to my mom cursing at my sister at 5:30 in the morning. Just freaking marvelous.,-1,Mom,SocialMedia,Yes,-1,-1,-1,1,1,-1,-1
+240,"Forgot to bring my headphones to the gym this morning, the music they play in this gym pumps me up soo much!",-1,Music in the Gym,SocialMedia,Yes,1,1,-1,-1,-1,-1,1
+241,I love when my A/C decides to start making high pitch screeching noises in the middle of the night. Didn't scare me at all,-1,A/C,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+242,If I ever need a brain transplant I'd choose yours because I'd want a brain that had never been used,-1,Your brain,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+243,"Oh yes, I live for them, seriously! It's so nice when you get called fat on a daily basis, isn't it?",-1,They,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+244,"Wet, foggy, and dark, sounds like a good combination of driving weather",-1,Weather,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+245,I love when i'm running late and other drivers want to drive the speed limit!!,-1,Other drivers,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+246,you must be a redneck if your TweetHasTag profile pic is you with a cowboy hat on.,-1,Wearing cowboy hat,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+247,Yeah my thumb's fine thanks mom and I'm so happy that you feel going for a walk is more important than preparing me for sixth form.,-1,Mom,SocialMedia,Yes,-1,-1,-1,-1,1,-1,-1
+248,Nothing like the smell of browning ground beef at 6:45 in the morning.,-1,Smell,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+249,Going to enjoy listening to the same 5 songs on the radio on the way to Sudbury,-1,Radio,SocialMedia,Yes,-1,-1,-1,-1,1,1,1
+250,Just love it when my guys clean their desks and put all that paper in their out boxes for me to deal with.,-1,Cleaning habbit of others,SocialMedia,Yes,-1,-1,1,-1,-1,-1,-1
+251,"Thanks a lot, Hotmail, for blocking me from my own account. So helpful!",-1,Hotmail,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+252,I just love getting a random schedule change and not even knowing about it!,-1,Rescheduling,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+253,"Bronchitis, eat infection and a fever. Makes for a great start to my labor day weekend",-1,Weekend,SocialMedia,Yes,-1,-1,-1,-1,-1,-1,-1
+254,I love the sight of media trucks rolling up to campus on a Friday morning,-1,Media trucks,SocialMedia,Yes,1,-1,-1,-1,-1,-1,-1
+255,"I purchased this product 4.47 Billion Years ago and when I opened it today, it was half empty.",-1,Product delivery,http://www.themarysue.com/funny-amazon-reviews/,Yes,-1,1,-1,-1,-1,-1,-1
+256,"Actually, all of the reviews for this are serious, because this is a serious book. Be afraid.",-1,Book,http://www.themarysue.com/funny-amazon-reviews/,Yes,-1,-1,-1,-1,1,-1,-1
+257,My 13-year old wife complain that I wear my mankini swim-suit too much. Like when I go for store to get ice cream. She is jelous!,-1,Mankini swimsuit,http://www.themarysue.com/funny-amazon-reviews/,Yes,-1,-1,-1,-1,-1,-1,-1
+258,Everyone who comes to my apartment and reads this book dies laughing. Now all my friends are dead.,-1,Book,http://www.themarysue.com/funny-amazon-reviews/,Yes,-1,1,-1,-1,1,-1,1
+259,"Unfortunately I already had this exact picture tattooed on my chest, but this shirt is very useful in colder weather.",1,shirt,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,1,1,-1,1,-1,1,1
+260,"I had a two-wolf shirt for a while and I didnt think life could get any better. I was wrong. Life got 50% better, no lie",1,shirt,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,-1,1,1,-1,1,1,1
+261,It was only after it arrived that I looked closely at the title and realised it said How to Avoid Huge SHIPS. A simple error that means I am still treading on massive examples of canine excrement.,-1,Book,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,-1,-1,-1,1,1,-1,-1
+262,The best thing about this pen? It looks so stylish tucked behind my ear while Im perched on the corner of my boss desk flirting with him.,-1,Pen,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,1,1,-1,-1,-1,-1,-1
+263,"A great read. Captivating. I couldnt put it down. I would have given it five stars, but sadly there were too many distracting typos. For example: the title.",1,Book,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,1,1,1,-1,-1,1,-1
+264,"God Himself could not record as good a greatest hits album like this, and if He were to listen to all 17 tracks on this compilation, He would refrain from striking me down for blasphemy.",1,Album,http://www.dailyedge.ie/funny-amazon-reviews-2-1039869-Aug2013/,Yes,-1,-1,1,-1,1,1,1
+265,The acting is fine but the script is about as interesting as a recording of conversations at the wal-mart checkout line .,-1,script,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+266,"[Schweiger is] talented and terribly charismatic , qualities essential to both movie stars and social anarchists .",1,Actor,Amazon Movie Corpus,Yes,-1,1,1,1,1,1,1
+267,An incredibly narrow in-joke targeted to the tiniest segment of an already obscure demographic .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+268,"If the last man were the last movie left on earth , there would be a toss-up between presiding over the end of cinema as we know it and another night of delightful hand shadows .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,-1,-1,-1
+269,It all looks and plays like a $40 million version of a game you're more likely to enjoy on a computer .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+270,"It's tommy's job to clean the peep booths surrounding her , and after viewing this one , you'll feel like mopping up , too .",-1,Movie,Amazon Movie Corpus,Yes,-1,1,-1,-1,-1,-1,-1
+271,So riddled with unanswered questions that it requires gargantuan leaps of faith just to watch it plod along .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+272,Polished korean political-action film is just as good -- and bad -- as hollywood action epics . is this progress ?,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+273,"Astonishing isn't the word -- neither is incompetent , incoherent or just plain crap . indeed , none of these words really gets at the very special type of badness that is deuces wild .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,-1,-1
+274,Haynes has so fanatically fetishized every bizarre old-movie idiosyncrasy with such monastic devotion you're not sure if you should applaud or look into having him committed .,-1,"Haynes, the director",Amazon Movie Corpus,Yes,1,-1,-1,-1,-1,-1,-1
+275,"A movie more to be prescribed than recommended -- as visually bland as a dentist's waiting room , complete with soothing muzak and a cushion of predictable narrative rhythms .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+276,A frisky and fresh romantic comedy exporing sexual politics and the challenges of friendships between women .,1,Movie,Amazon Movie Corpus,Yes,1,1,1,1,1,1,1
+277,A movie for 11-year-old boys with sports dreams of their own and the preteen girls who worship lil' bow wow .,1,Movie,Amazon Movie Corpus,Yes,-1,1,-1,1,1,1,1
+278,"'charly' will divide its audience in two separate groups , those reaching for more tissues and those begging for mercy . . .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+279,"Here's a british flick gleefully unconcerned with plausibility , yet just as determined to entertain you .",1,Movie,Amazon Movie Corpus,Yes,1,-1,1,1,1,-1,-1
+280,It's like an all-star salute to disney's cheesy commercialism .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,-1,1
+281,"Though this film can be clumsy , its ambitions are equally -- and admirably -- uncommercial .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,1,-1,1,-1
+282,It's the type of stunt the academy loves : a powerful political message stuffed into an otherwise mediocre film .,-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,1,1,-1,-1
+283,It's everything you don't go to the movies for .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+284,"If you're not into the pokemon franchise , this fourth animated movie in four years won't convert you -- or even keep your eyes open . but fans should have fun meeting a brand-new pokemon called celebi .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,1,-1,-1
+285,"It is that rare combination of bad writing , bad direction and bad acting -- the trifecta of badness .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+286,"An erotic thriller that's neither too erotic nor very thrilling , either .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,1,-1
+287,"See clockstoppers if you have nothing better to do with 94 minutes . but be warned , you too may feel time has decided to stand still . or that the battery on your watch has died .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,-1
+288,The only thing i laughed at were the people who paid to see it .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+289,Sitting through the last reel ( spoiler alert ! ) is significantly less charming than listening to a four-year-old with a taste for exaggeration recount his halloween trip to the haunted house .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+290,One can only assume that the jury who bestowed star hoffman's brother gordy with the waldo salt screenwriting award at 2002's sundance festival were honoring an attempt to do something different over actually pulling it off,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,-1,-1
+291,It is best appreciated as an immersion in a three-dimensional toyland outfitted with enough whimsical gadgetry to fill a thousand playrooms .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,1,1,-1,-1
+292,"Children may not understand everything that happens -- i'm not sure even miyazaki himself does -- but they will almost certainly be fascinated , and undoubtedly delighted .",1,Movie,Amazon Movie Corpus,Yes,1,-1,1,-1,1,1,1
+293,"About as enjoyable , i would imagine , as searching for a quarter in a giant pile of elephant feces . . . positively dreadful .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,1,-1,-1,-1
+294,Bullock does a good job here of working against her natural likability .,-1,Movie,Amazon Movie Corpus,Yes,-1,1,-1,-1,-1,-1,1
+295,"Half of it is composed of snappy patter and pseudo-sophisticated cultural observations , while the remainder . . . would be more at home on a daytime television serial .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+296,Only those most addicted to film violence in all its forms will find anything here to appreciate .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+297,[anderson] uses a hit-or-miss aesthetic that hits often enough to keep the film entertaining even if none of it makes a lick of sense .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,1
+298,"You wouldn't call the good girl a date movie ( an anti-date movie is more like it ) , but when it's good , it's good and horrid .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,1
+299,"What with all the blanket statements and dime-store ruminations on vanity , the worries of the rich and sudden wisdom , the film becomes a sermon for most of its running time .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,-1,-1
+300,"By the time you reach the finale , you're likely wondering why you've been watching all this strutting and posturing .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+301,You don't have to be an especially tough grader to give a charitable b-minus to the emperor's club .,-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,1,-1,-1
+302,"You may think you have figured out the con and the players in this debut film by argentine director fabian bielinsky , but while you were thinking someone made off with your wallet .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+303,"It's not like having a real film of nijinsky , but at least it's better than that eponymous 1980 biopic that used soap in the places where the mysteries lingered .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,1,1
+304,Putting the primitive murderer inside a high-tech space station unleashes a pandora's box of special effects that run the gamut from cheesy to cheesier to cheesiest .,-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,1,-1,1
+305,"Directed without the expected flair or imagination by hong kong master john woo , windtalkers airs just about every cliche in the war movie compendium across its indulgent two-hour-and-fifteen-minute length .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+306,"As spent screen series go , star trek : nemesis is even more suggestive of a 65th class reunion mixer where only eight surviving members show up -- and there's nothing to drink .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,-1
+307,"Confusion is one of my least favourite emotions , especially when i have to put up with 146 minutes of it .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,-1,-1,-1
+308,Australian actor/director john polson and award-winning english cinematographer giles nuttgens make a terrific effort at disguising the obvious with energy and innovation .,-1,Movie,Amazon Movie Corpus,Yes,-1,1,-1,-1,-1,-1,-1
+309,"Singer/composer bryan adams contributes a slew of songs - a few potential hits , a few more simply intrusive to the story - but the whole package certainly captures the intended , er , spirit of the piece .",1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,1,1,1,1
+310,"Eventually , they will have a showdown , but , by then , your senses are as mushy as peas and you don't care who fires the winning shot .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+311,"It's not a great monster movie . but if you've paid a matinee price and bought a big tub of popcorn , there's guilty fun to be had here . chomp chomp !",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,-1,-1,-1,-1
+312,"Peralta's mythmaking could have used some informed , adult hindsight .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,1,-1,-1,-1
+313,"Kids who are into this thornberry stuff will probably be in wedgie heaven . anyone else who may , for whatever reason , be thinking about going to see this movie is hereby given fair warning .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+314,'sophisticated' viewers who refuse to admit that they don't like it will likely call it 'challenging' to their fellow sophisticates .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+315,"The film's 45-minute running time stops shy of overkill , though viewers may be more exhausted than the athletes onscreen .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+316,"Despite suffering a sense-of-humour failure , the man who wrote rocky does not deserve to go down with a ship as leaky as this .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+317,Manages to fall closer in quality to silence than to the abysmal hannibal .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,1
+318,"It's rare to see a movie that takes such a speedy swan dive from "" promising "" to "" interesting "" to "" familiar "" before landing squarely on "" stupid "" .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+319,Plays less like a coming-of-age romance than an infomercial .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+320,So relentlessly wholesome it made me want to swipe something .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,1,-1,-1,-1
+321,"I've had more interesting -- and , dare i say , thematically complex -- bowel movements than this long-on-the-shelf , point-and-shoot exercise in gimmicky crime drama .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,1,1,1,-1,-1
+322,Brady achieves the remarkable feat of squandering a topnotch foursome of actors . . . by shoving them into every cliched white-trash situation imaginable .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+323,Watching the film is like reading a times portrait of grief that keeps shifting focus to the journalist who wrote it .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,1
+324,"Guy gets girl , guy loses girl , audience falls asleep .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,-1,-1
+325,Really does feel like a short stretched out to feature length .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+326,Irwin and his director never come up with an adequate reason why we should pay money for what we can get on television for free .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+327,What you end up getting is the vertical limit of surfing movies - memorable stunts with lots of downtime in between .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,1,-1,-1,-1
+328,"It wraps up a classic mother/daughter struggle in recycled paper with a shiny new bow and while the audience can tell it's not all new , at least it looks pretty .",1,Movie,Amazon Movie Corpus,Yes,-1,1,-1,-1,1,1,1
+329,"Almost nothing else -- raunchy and graphic as it may be in presentation -- is one-sided , outwardly sexist or mean-spirited . and in a sense , that's a liability .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+330,A generic international version of a typical american horror film .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,1,-1,-1,-1
+331,The perfect film for those who like sick comedies that can be snide .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+332,Your stomach for heaven depends largely on your appetite for canned corn .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,1
+333,"The film takes the materials of human tragedy and dresses them in lovely costumes , southern california locations and star power .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,-1,1,1
+334,"The seaside splendor and shallow , beautiful people are nice to look at while you wait for the story to get going .",-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,1,1,-1
+335,The kind of movie you see because the theater has air conditioning .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,1
+336,About the only thing to give the movie points for is bravado -- to take an entirely stale concept and push it through the audience's meat grinder one more time .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,1,-1
+337,"Not a bad choice here , assuming that . . . the air-conditioning in the theater is working properly .",-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,1,1,-1
+338,One scene after another in this supposedly funny movie falls to the floor with a sickening thud .,-1,Movie,Amazon Movie Corpus,Yes,1,-1,-1,-1,-1,-1,-1
+339,Feels like a cold old man going through the motions .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+340,The film ultimately offers nothing more than people in an urban jungle needing other people to survive . . .,-1,Movie,Amazon Movie Corpus,Yes,-1,-1,-1,-1,-1,-1,-1
+341,Calling you an idiot would be an insult to all stupid people.,-1,You,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,-1,-1,-1,-1,-1
+342,"I want to die peacefully in my sleep, like my grandfather.. Not screaming and yelling like the passengers in his car.",-1,Passenger,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,1,-1,-1,-1,-1
+343,We live in a society where pizza gets to your house before the police.,-1,Police,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,1,-1,-1,-1,-1
+344,Light travels faster than sound. This is why some people appear bright until you hear them speak.,-1,Some people,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,-1,-1,-1,-1,-1
+345,If I agreed with you wed both be wrong.,-1,Your argument,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,1,-1,-1,-1,-1,-1,-1
+346,"Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.",-1,Politicians,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,-1,-1,-1,-1,-1
+347,"A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station..",-1,Work,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,-1,-1,-1,-1,-1
+348,I didnt fight my way to the top of the food chain to be a vegetarian,-1,Vegetarian,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,-1,1,-1,-1,-1,-1
+349,"How is it one careless match can start a forest fire, but it takes a whole box to start a campfire?",-1,Campfire,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,-1,1,-1,-1,-1,-1,-1
+350,"A bank is a place that will lend you money, if you can prove that you dont need it.",-1,Bank,www.funcage.com/blog/top-100-funniest-one-liners/#ixzz3RiokCRHP,Yes,1,-1,-1,-1,-1,-1,-1
+351,"We are no experts in photography and this camera is just what we needed, easy to use. The auto mode is fantastic... always good pictures (for the non-expert users, at least).The close-up mode is a very good feature, too.",1,Camera,SocialMedia,No,-1,1,1,1,1,1,1
+352,I bought this as a gift for my boyfriend who is an amateur photographer.  He is happy with the camera.  We are still discovering all the different settings.So far so good!,1,Camera,SocialMedia,No,1,1,1,-1,1,1,1
+353,"Esta camara toma fotos de imagen ntida. Es fcil de portar por su tamano y peso y, como siempre, la calidad Sony es la mejor garanta.",-1,Camera,SocialMedia,No,-1,1,1,-1,-1,1,-1
+354,"This is and incredible camera, the resolution is excelent and the zoom is really good too. The menu is a little difficult to master at first, but once you do, it becomes incredibly easy",1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+355,This camera is quick shooting.  I have the Cannon 620 and bought this one for my daughter and family.They have had a ball with it since I bought it.  Great Value.  Great Product.,1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+356,"I am not electrically inclined however, this light weight easy to use great picture taking camera was well worth the purchase. I have recommmended it to friends and family members considering purchasing a digital camera.",1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+357,"This camera is the perfect size, fits in a pocket or purse comfortably.  The view screen is actually big enough to see and the pictures are very good quality.  Easy to use and fun.",1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+358,Love this camera.  Good quality.  Very light weight.  Consumer reports is right.  Best value.,1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+359,"This is an excellent camera to begin on the world\'s photografers amateur, i bought this camera and the price for the quality is the best choice! Amazing!",1,Camera,SocialMedia,No,-1,1,1,1,1,1,1
+360,I like all of the features on this camera except the fact it doesn\'t have a view finder. When taking pictures in bright light you can\'t see your subject.,-1,Camera,SocialMedia,No,-1,1,1,-1,-1,-1,-1
+361,"The camera is working very well.  I have gotten some wonderful pictures.  However, there were some that were pretty fuzzy; I haven\'t figured out if it was because of the camera or the user yet.",1,Camera,SocialMedia,No,-1,1,1,1,-1,1,1
+362,Very good price for it\'s quality. I really like the camera and also it has a very fast startup,1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+363,I Used to have the sd600 this blows it away. Great for taking pics from a moving car.The IS is worth every penny for the zoom shots!fast action too,1,Camera,SocialMedia,No,1,1,1,1,1,1,1
+364,"No real side effects. Maybe slight increase in mood-swings. No weight-gain (though one size bra-cup increase, but thats ok) no nausea, lowered my stomach cramps a lot!",1,Drug,SocialMedia,No,-1,1,-1,1,1,1,-1
+365,"If not taken you will have very bad mood swings, only if not taken with 2 days or more",-1,Drug,SocialMedia,No,-1,1,-1,-1,-1,-1,-1
+366,Most amazing drug ever. works like a charm. knocks you out in like 10-20 minutes.,1,Drug,SocialMedia,No,1,1,1,-1,-1,1,1
+367,"EXCELLENT medicine, only one that could stop tooth pain! Way better than oxy/hydro/fentanyl/codeine/etc. Also a good value B/C always generic.",1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+368,"Works good and fast 30min if i,m watching tv forget it.   no moring hangover.you wakeup refresh. not a deep sleep. price is outthere",1,Drug,SocialMedia,No,-1,1,1,-1,1,1,1
+369,I have been on Cymbalta 60mg for about 2 years. It has worked well for me when other anti-depressants did not. I was giving up hope.  No none side effects. Caused some drowziness at a higher dose.,1,Drug,SocialMedia,No,1,1,1,1,1,-1,1
+370,Great to help you go to sleep fast and rest all night.,1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+371,I have used this on and off for 25 years .When I have very bad Panic attacks nothing works better for me then ativan..,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+372,"Cheap, did the trick, works better with a glass of jack.",1,Drug,SocialMedia,No,1,1,-1,1,1,1,1
+373,"It\'s a LIFE SAVER!  Went for years with migraine headaches and my allergy doctor said to try this, I have a life again!  Pill takes about 1 hour to work, but it\'s well worth it!",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+374,I have been taking Cymbalta for 18 months.  I LOVE IT!!!  It has helped the pain from my fibromyalsa tremendously.  Helped my depression.  I have taken many other antidepressants and this is BY FAR the BEST!,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+375,Strattera + adderall xr = good dosing. works miracles. you feel like your head is spinning and tingly. lots of concentration,1,Drug,SocialMedia,No,1,-1,1,1,1,1,1
+376,"I have endometriosis so my doctor recommends a continuous routine. This bcp works great, I was having alot of spotting on Yasmin and this was a huge relief to me. I would recommend this pill to any woman.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+377,Mood swings and spotting over a month! Lower sex drive ... other than that it feels great when you dont have to worry about taking a pill everyday! It lasts 3 months!,-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+378,"The only med that helped my depression. I\'ll continue to take it, despite it\'s expense and side effects (apathy, increased hunger, decreased sex drive).",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+379,I have nueropathy in my feet and the DC. gave me Cymbalta do you know if it have helped anyone with this problem\'   Thank you,1,Drug,SocialMedia,No,-1,-1,-1,1,1,1,1
+380,Very effective for me.  So much better than Gabapentin.  It\'s covered by my insurance so that\'s a huge bonus.  I feel very little to no negative side effects.  This helps my social anxiety and really helps my chronic insomnia.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+381,"Breast tenderness is the only side effect so far.  It has helped tremendously with insomnia, mood swings, fatigue, headaches and muscle pain.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+382,No affect on me.. but i have a high pain tolerance,-1,Drug,SocialMedia,No,-1,-1,-1,1,-1,-1,-1
+383,I love it! I am soooo much more rational than I have ever been and it helps me sooo much! I am so happy and I can focus sooo much more than ever before! Couldn\'t be happier!,1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+384,I have tried a couple of other medications but this one is the best. It worked immediately to control my blood pressure. Very dependable and my life saver.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+385,Loved this drug. It took about six weeks to feel it but it was great. It kept me very even.,1,Drug,SocialMedia,No,1,1,1,-1,1,1,1
+386,"Cymbalta worked well for my depression as well as for my fibromyalgia pain, but sort of aggravated my anxiety (also having stressful times).",1,Drug,SocialMedia,No,1,-1,-1,1,-1,1,1
+387,MY INSURANCE COVERED LEXAPRO FOR ME AND I WOULD SAY THE OVERALL VALUE WAS VERY GOOD BUT IT DID INCREASE MY INSOMNIA,-1,Drug,SocialMedia,No,1,-1,-1,1,-1,1,-1
+388,Best medication for insomnia I have ever taken and I have been on many. Only problem is if you don\'t sleep enough hours you may have trouble oversleeping.,1,Drug,SocialMedia,No,1,-1,1,-1,1,1,1
+389,This is the best antiobiotic I\'ve ever taken!  The TriPack is even better because it is only a three day course.  Much higher compliance rating!,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+390,Great med! I dont understand some people. If you dont like xanax and **** about it then dont take it!!!!!!!!!!!!!!!!! Have a nice day!!!! :),1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+391,I\'ve been on it for about a month and a half.  I was really emotional but it was the lightest period of my life it was nice.  I\'m happy with this pill..,1,Drug,SocialMedia,No,1,1,1,1,1,1,-1
+392,Works well for a brief period of time.. Causes some nausea.,-1,Drug,SocialMedia,No,-1,1,1,1,-1,-1,-1
+393,"Great pill, just have had chills in my lower back since a week after I started the pill; Otherwise no problems. -",1,Drug,SocialMedia,No,1,1,1,-1,1,1,1
+394,My husband has been on all pain meds there are he got methadone from his pain doctor and he is mostly pain free We think it is a GREAT med for pain!!!,1,Drug,SocialMedia,No,1,1,1,1,1,-1,1
+395,"I love Ortho Tri-Cyclen.  It has never given me any problems and has been extremely effective.  It also helps my period symptoms immensely, which is super important to me.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+396,"Lots of nausea, and anxiety/insomnia, but otherwise good, because you get shorter periods.",-1,Drug,SocialMedia,No,-1,-1,-1,1,1,-1,-1
+397,Zoloftttt saved my lifee!! lol no really though i was ready to kill myself.. but then after i took zoloft i am in a much better mood.. with not too many side-effects,1,Drug,SocialMedia,No,1,1,1,1,1,1,-1
+398,The best.  Absolutely no side effects.  Works for clinical depression...but not in a overwhelming way.  I highly recommend it.  I have several friends and family members on lexapro and everyone feel as I do.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+399,"I have gained less weight with this pill than others. I\'m in my second month now and I hope to start getting regulated soon (to stop getting these cystic bumps)But,it seems like my body is adjusting pretty fast :)",1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+400,"Works great for panic attacks, public speaking, and stopping those racing thoughts before bedtime.  Use it practically!",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+401,"U just cant mix it with downers, very good as pain pill",1,Drug,SocialMedia,No,-1,-1,-1,1,1,1,1
+402,I have used this medication long enough to know that it has the least side effects for me.,1,Drug,SocialMedia,No,1,1,-1,1,1,1,1
+403,I tried a variety of drugs over the course of 8 years.  This drug takes away my migraines.  It is invaluable to me.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+404,"Works wonder on concentration. Side effects of sleeplessness and appetite loss, but out of all the ADHD meds I\'ve been on, Adderall is definately the best. The improved concentration is worth the side-effects and the money for sure!",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+405,Ive been on this bcp for a few months now and i can say that it is ok sides the breakthrough bleeding  .ive tried other pills and never had that breakthrough bleeding before.I would recommend orthro lo.,1,Drug,SocialMedia,No,1,1,-1,1,-1,1,-1
+406,I\'m on this now and It got rid of a terrible respiratory infection!,1,Drug,SocialMedia,No,-1,1,-1,1,1,1,1
+407,"I found the drug to be effective, with literally no side effects.",1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+408,I really have enjoyed taking Zoloft. My social anxiety has really subsided.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+409,Works wonderfully. Side effects were bad at the beginning but got better after a week or two and were completely gone after a few months.  I can tell the difference when I forget to take this medicine,1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+410,"Works well for my spouse! If it works, then I\'m happy because I\'m at peace!",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+411,Drug administered through pump after lung surgery. By far one of the best - and I have been on many; especially post op. Alternative to Morphine IV due to causing veins to bust.,1,Drug,SocialMedia,No,-1,1,1,1,-1,1,1
+412,I am on my second week of taking this drug.  I take 100mg at night makes me drowsy. It has taken away most of my nerve pain caused from shingles as well as anxiety.  Very Good,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+413,It\'s one of the few meds that have worked on me. I\'m Bipolar type II.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+414,More effective against anxiety than depression.  Takes a while to get used to.  Bad side effects at first.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+415,Worked good for me.  NO cramps or bad side effects and I have been on it for 4 years now.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+416,"Good medicine. lost 10 lbs with it. i need a stronger strength--addictiveness can happen. well, DEPENDENCE occurs, therefore the dr. must increase dose to fulfill measurements.",1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+417,"I have been on the generic of Ovcon, Balziva, for 8 months.  I\'ve had no mood swings, but have had spotting during ovulation 4 of the 8 months.",-1,Drug,SocialMedia,No,1,-1,-1,-1,1,1,-1
+418,"The nasal spray works within a half hour...i have had migraines most of my life & so far, this has een the best med i have tried",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+419,Saved my life!! too bad i grew a tolerance to it =(,-1,Drug,SocialMedia,No,-1,1,-1,-1,1,-1,1
+420,After suffering severe panic attacks...this drug had provided me the confidence to be normal again and know if I panic I only have 30 minutes of it to deal with.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+421,"Took 2.5 mgs for 2 weeks, nothing really.  Started 5 mgs 4 days ago,  feeling a little less anxious and panicky.  Still waiting for this to kick in.  After 2 weeks on 5 mgs will go to 10.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+422,No more heavy long periods and cramps. The best mood and sex drive.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+423,"I have tried others, and I think that this drug is really effective and side effect free.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+424,"Works well for panic attacks, but takes time to take affect.",1,Drug,SocialMedia,No,1,1,1,1,1,-1,1
+425,"I have found Zoloft to be a lifesaver. It has stabilized my mood, and allowed me a better clarity of thought.",1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+426,"This is a great medication. I have taken this a couple of times, and each time it does its job and makes me better again.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+427,Ihave taken this medication for many years and have had no problems.,1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+428,"Nuvaring is nice because it\'s super easy and you only have to worry about it twice a month.  I never got pregnant on it, but I did experience the side effects of mood swings and decreased sex drive.",1,Drug,SocialMedia,No,-1,1,1,-1,-1,1,1
+429,"Simply the best ADD drug out there. Thanks to Adderall-I enjoy school again, get good grades, socialize more, and can actually see the floor in my room again! Three cheers for Adderall!",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+430,"I am so glad that I found this site! I have had no sex drive whatsover, headaches, the WORST mood swings, hairloss, weightgain - you name it. I never experienced these symptoms until I started the pill!",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+431,"Since I went on Lutera, my cramps have been better, I know exaclty when I\'m going to get my period, and my flow is a lot lighter.  I haven\'t experienced any side effects and it\'s relatively cheap.",1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+432,"Works fast, few side effects if any, very cheap.  Can be addictive but it can be a lifesaver.  Stops panic attacks, but can make you sleepy.",1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+433,I\'ve used this for a while with Atenolol and its doing the job ok.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+434,Been using it for 6 months and no problems at all,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+435,I love having this for school but extremely hard to sleep and severe sweating,-1,Drug,SocialMedia,No,1,-1,-1,-1,1,-1,-1
+436,"Used it for anxiety problem;  helps a lot.  If I forget one dose (37.5), I feel very strange.",1,Drug,SocialMedia,No,-1,1,1,1,-1,1,-1
+437,Drug is unreal. Help so so much. Been on it for 4 years and no problems.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+438,Awesome drug.  Works great for me and changed my life.  Side note: don\'t quit an antidepressant cold turkey.,1,Drug,SocialMedia,No,-1,1,1,1,-1,-1,1
+439,"Worked great but I couldn\'t tolerate the side effects: headaches, ringing in the ears, nausea.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+440,Help me a lot with my panics attack I take 6 mg a day for almost 20 years  can\'t stop of course but make me feel very confortable,1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+441,I REALLY LIKE LEXAPRO!I HAVE JUST TWO SIDE EFFECT TO IT A THAT IS  I GAIN ALOT OF WEIGHT AND I\'M ALWAYS HUNGRY.,-1,Drug,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+442,Made me sick alot. i was on it for about a year. i didnt eat much. i also had mood swings. my grades were a little better though. i ended up switching to concerta and i love it.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+443,Was administered after post OP due to morphine causing veins to bust. WONDERFUL!,-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+444,Have taken this for several years along with Toprol XL to control high blood pressure.  Does the job with no side effects.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+445,This is great at stopping a severe headache.  It\'s cheap and I experience no bad side effects.,1,Drug,SocialMedia,No,-1,1,1,1,1,1,1
+446,"The best migraine drug I have ever used. Get the orally disintegrating kind, and let it melt in your mouth and swish it around for a few minutes.",1,Drug,SocialMedia,No,-1,1,1,1,1,-1,1
+447,I\'ve almost finished a whole pack and no side effects except during the second week of the pack my blood pressure was high but by the the fourth week it returned to normal,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+448,"I love Zoloft. It has literally saved my life. Note: When I got on this medicine, I got lightheaded easier.",1,Drug,SocialMedia,No,-1,-1,1,1,-1,1,1
+449,I have been on this for 3 years - and works good once you overcome most side effects.  Be careful going on and off this drug - side affects are killer!,1,Drug,SocialMedia,No,1,-1,1,-1,-1,1,1
+450,"Zoloft is ok, does the job, but as you have to take it all the time it gets so expensive! On that note, it would be great if all meds were less expensive!",-1,Drug,SocialMedia,No,-1,-1,1,1,-1,-1,1
+451,"Gives me a yeast infection every single time I take it, take something different now with no problems",-1,Drug,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+452,Things drug worked wonders on my anxiety.  Its worked better than anything else I\'ve been on. The only thing I didn\'t like about it was it was hard to get off of because of the withdraw symptoms.,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+453,This is the only med that is keeping me on my feet right now,1,Drug,SocialMedia,No,1,1,1,1,-1,1,1
+454,Very hard to get off of-- you basically have to get on something else just to feel better,-1,Drug,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+455,"Migranes, mood swings, muscles cramps and spasms, heavy bleeding, cramping, and more. i hate this pill.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+456,This is great if you like acting like a total idiot AND getting ripped off!,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+457,I get LESS sleep on this drug.. it makes you drowsy but then won\'t let you sleep!! when you do get to sleep then it wakes you up 2-4 hours later for good,-1,Drug,SocialMedia,No,1,-1,-1,-1,-1,1,-1
+458,HORRIBLE. GIVEN DUE TO NERVE DAMAGE - MADE MY KIDNEYS SWELL UP AND CAUSED PAIN FOR TWO WEEKS. NEURONTIN IS A MUCH MUCH BETTER CHOICE.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+459,Took this medication and found it did not help at all.  I did gain weight also. Stopped taking it and am now on Lyrica which is also not too good.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+461,"Thus drug has no effect on sleep. In fact, I think it atually kept me up.  I somebody kidding&#63;&#63;&#63;",-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+462,I took Ortho Tri-Cyclen Lo for about 3 months religiously and found myself pregnant.  I have since switched back to Ortho Tri-Cyclen and have not had any problems.,-1,Drug,SocialMedia,No,1,-1,1,-1,-1,1,-1
+463,"I rate it a 5 for reducing my anxiety (best rating), but a 1 for sexual side effects (worst rating).   Experiencing major ED and difficulty ejaculating; the ED is the wors",-1,Drug,SocialMedia,No,1,-1,-1,-1,1,-1,1
+464,Didn\'t see any good from taking it. Smaller in size than the neurontin but I feel the neurontin had least side effects. I started itching after being on the drug for approximately a month.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+465,"Terrible head aches, horrible break threw bleeding. Cant take this pill 5 mins late or u bleed.. Infact in bleed anyways. WORST ever!",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+466,Best thing about taking effexor was quitting!  I got my sex drive back and my ambition to accomplish things around the house.  The size of my honey-do list shrank dramatically!!,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,1,1
+467,"Experienced about 10 lbs. weight gain, which is a lot since I started off at 95 lbs.  And it seemed like acne actually got worse!",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+468,"I only say the value of the drug is bad because it doesn\'t work, at least for me...I felt as if I was flushing money down the toilet!",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+469,"Started taking .5mg at night for sleep.  Caused persistent and severe anxiety after two weeks.  Had to start taking antidepressants.  Screwed up my life for three months.  If you are anxious, try going for a long walk.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+470,"This pill made me have terrible mood swings, did nothing for my cramps, and I had serious food craving. I switched to a pill with higher level of progestron, which is MUCH better",-1,Drug,SocialMedia,No,-1,-1,-1,1,-1,-1,-1
+471,This drug made me want to jump off a bridge...never have I experienced such terrible depression on BC!  I HATE IT!  I am going back to YAZ within a week!,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+472,Not great for overall pain coverage. Very inexpensive. Not very happy with pain control. I think it may be more dangerous than helpful.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+473,"I have been struggling with the side effects ever since I began taking it. Nausea, dizziness, anxiety.  I\'m quitting it.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+474,"Lunesta gave me a slightly better quality of sleep, but then for the next two days I became very, very sleepy in the afternoon.  I would not recommend anyone take this drug.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+475,Used it several years ago when I was in my early teens. It made me more depressed and self-destructive. NOT SAFE IN CHILDREN and I\'m not so sure about adults either.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+476,Ineffective drug.  Doesn\'t provide pain relief and makes me out of it for several days after taking it.  I can\'t believe people out there get addicted to this crap.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+477,Too much bleeding. After 3 months my OB switched me to yasmin and for the first 2 months the bleeding has been manageable. Also no sex drive with Tricyclen lo and have not experinced this with my new pill.,-1,Drug,SocialMedia,No,-1,1,-1,-1,-1,-1,-1
+478,"Not only did it not work, it put me in a hazy fog, I didnt pay attention to the world around me at all and caused nightmares",-1,Drug,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+479,Worked for a week.. i would take it and five minutes later black out for 10 hours and felt hung over afterwards,-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+480,I have been lightly bleeding everday but I get my period at the same time every month now. I\'m going to keep with it for another month and if things don`t change im going to change birth control.,-1,Drug,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+481,"It\'s hit or miss with this. Sometimes it works for my sinus infections and sometimes it doesn\'t. However, it\'s not worth the yeast infection (I just have my MD write a fluconazole to go with it) and diarrhea/upset stomach.",-1,Drug,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+482,"It\'s expensive.  It made me nervous, irritated, tremors, & night sweats.  To top it off I then attempted suicide.  Dont take this drug",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+483,It is generally a good brand i have had no side effects,1,Drug,SocialMedia,No,1,1,1,1,1,1,1
+485,"The worse side effect with this drug is that it caused major sexual dysfunction with me. If you don\'t care about that element of it, then it\'s a relatively good antidepressant.",-1,Drug,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+486,"I bought this laptop because a had to change my vaio, and I think that toshiba is an excellent device, but to be honest i want to change vista.",-1,Laptop,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+487,"I bought this notebook to discover the Mac World. It is very interesting for someone that always used Windows. Great performance, easy to use. Iam very glad with my purchase and I recomend it to other windows users.",1,Laptop,SocialMedia,No,-1,1,1,1,1,1,1
+488,"It was good, but the image of the laptop online is a little different because it doesnt have the finger print log in. then, it was ok",1,Laptop,SocialMedia,No,-1,1,1,1,-1,1,1
+489,"I really recommend any Apple product.  I have this particular laptop, however, it\'s not fast enough.  More resolution, more RAM, and a bigger processor is definately needed.",-1,Laptop,SocialMedia,No,1,-1,-1,-1,1,-1,1
+490,The iBook just works.  The OS X software is uncrashable and so easy to use.  This computer leaves me wondering why I ever tolerated PC\'s.  The iBook is a must have for any student or home user.,1,Laptop,SocialMedia,No,-1,1,1,1,1,1,1
+491,"Great performance, great look and a mind blowing interface like apple technology can provide",1,Laptop,SocialMedia,No,-1,1,1,1,1,-1,1
+492,"Good product, quick delivery.  Needs more USB ports and memory card slots and that\'s why I only gave it 4 stars.",1,Laptop,SocialMedia,No,-1,1,1,1,1,1,1
+493,The airport card reception/transmission is blocked by the Aluminium case of the PowerBook.  Apple even says so. Great computer. Just dont go online....,-1,Laptop,SocialMedia,No,1,-1,-1,1,-1,-1,1
+494,Don\'t repeat it. Averatec dies after 6 months. The customer support is very unfriendly. I had to garbage it and buy another brand. NEVER BUY AVERATEC,-1,Laptop,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+495,"I returned this Macbook because I realized that with me runnig WinXP withParallels, the harddrive & ram  would not be large enough for my needs.",-1,Laptop,SocialMedia,No,1,-1,-1,-1,1,-1,-1
+496,"Really this laptop runs almost like my old 486 Compaq Presario Desktop. Maybe is the Windows Vista memory requirements, but is totally sickness wait to open the system.Disspointed at all.",-1,Laptop,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+497,"Edges surrounding keyboard are sharp and dig into wrists.  Seems like Apple forgot why the original toilet seat iBook was so cool.  Sandpaper can ease the edges, but taking wood working tools to a $3,000 laptop shouldn\'t be required.",-1,Laptop,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+498,The unit was delivered ontime. It worked very well in the first few days but started giving problems. It turned out with mother board problem. Now running behind Toshiba\'s service center.. I hope it will be fixed....,-1,Laptop,SocialMedia,No,1,-1,-1,-1,1,1,-1
+499,"It had some good moments but its over, let it go.",-1,TV-Show,SocialMedia,No,-1,-1,-1,1,-1,1,-1
+500,"While the networks continue to produce mindless drivel, like america\'s got talent, or the oc, intelligent shows like scrubs continue to get the cold shoulder.  it\'s a shame.  scrubs is by far the smartest and funniest show on television right now.",-1,TV-Show,SocialMedia,No,-1,1,-1,1,1,-1,-1
+501,"Really enjoy this show, but it seems to never be on.  could abc just run it 4 weeks in a row it loses it\'s must see status when they do reruns every few weeks.",1,TV-Show,SocialMedia,No,-1,1,1,-1,-1,1,1
+502,Went from fun and exciting to - i just deleted alias from my dvr for the entire season.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+503,"James spader\'s and william shatner\'s charachters must have been separated at birth. they make this show ... bth as screwed up as the other, and they feed on each other. great chemistry between the actors. wacky show ... original writing.",1,TV-Show,SocialMedia,No,-1,1,1,-1,1,1,1
+504,Blueprints on his arms come on people!,-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+505,"Whaaaat  how can friends not be cherished  one of the most popular shows of all time, and the rating isn\'t through the roof.  everyone loves this show!  and for good reason.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+506,A pale imitation of the original british series.  check out that one instead on dvd; the boss is absolutely hilarious and the acting is much better overall.,-1,TV-Show,SocialMedia,No,1,-1,-1,1,1,-1,-1
+507,"This is one of the better shows on tv. absolutely loved season 1 and 2. season 3 wasn\'t as good but hoping season 4 will be better. as much as i love dr house, i was very disappointed to see foreman, chase and cameron all leave.",-1,TV-Show,SocialMedia,No,-1,1,1,-1,-1,1,-1
+508,This show was just too boring to keep my interest even through 1 episode.  what was fox thinking.,-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,1
+509,Excellent show that continues to develope the characters we have grown to know and love.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+510,It had a strong first and second season but recently it really has started to faulter.  i find myself caring less and less and now have reached the point that i don\'t watch at all.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+511,Greatest show i have ever seen.. have seen every episode since the 1st season 1st episode,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+512,Unrealistic. the episodes have become predictable. this show is a joke.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+513,"This show has great appeal to all ages. i love the individual stories woven throughout each week, and i am glad to see there is now some continuity between episodes. in the beginning it was a topic show with each week completely different. now it seems to hang togethere perfectly!",1,TV-Show,SocialMedia,No,1,1,-1,1,-1,1,1
+514,"To be frank i watched this show in its first and second seasons and felt on a good day it was a three star drama. in 2003 there was a competition between this show and a crime detective dramady \'keen eddy\' on which show was going to be fox\'s next hit series. sadly enough, \'the oc\' won out against keen eddie. the truth of the matter is critics hyped this teen drama like it was the greatest thing since beverly hill 90210 and it was just an average series. there can be no talk of \'the oc\' program quality depeciating over the years becasue it was just an average show to begin with.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+515,"Love this show!  interesting characters, real life situations and struggles.  it gets better and better every week.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+516,"Gina davis is the woman, but i don\'t like all the intrigue in her office.  is there that much stuff (really)going on behind the scenes  also, there are one or two (or 3 or...you get it) advertisements.  is that show that expensive to run",-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+517,Love the show. raymond is such a typical guy. it always made me laugh. sorry to see it go.,1,TV-Show,SocialMedia,No,-1,-1,1,1,1,1,1
+518,Only good thing about this show is it\'s finally (and mercifully) been cancelled for good,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+519,This has a lot of good acting and intriguing characters. it\'s now my favorite show.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+520,"Drink the kool-aid, liberal morons. we won and we will win in 2008. because we love this country and liberals don\'t",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+521,"Hilarious show -- great writing, excellent performances all around  -- this show makes my week !",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+522,"Can we please put this show, and guy, out to pasture  seinfeld\'s voice is annoying, i would lock the door on kramer, just so he slams into it and hurts himself, and elaine needs to remember that she ain\'t all that.  george is the only bright spot on this show about nothing.  why it ever got the status is has, i\'ll never know.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+523,Best show ever has great comedy and meaning much better than usual programming,1,TV-Show,SocialMedia,No,1,-1,-1,1,1,1,1
+524,The lead actress is terrible i cannot be convinced she is supposed to be some forensic genius her acting is bad,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+525,Ilove this show! this show makes me want to be a doctor because it show the cast being a famliy!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+526,The show is so liberal it is disgusting!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+527,"Jericho, is a fresh break from all of the hospital, police and reality tv shows.  i really look forward to see what is going to happen each week.",1,TV-Show,SocialMedia,No,1,1,-1,1,1,1,1
+528,"It\'s interesting how many people are claiming this to be a hilary for president advertisement show.  one guy even talks about republicans evil and democrats save the day.  it\'s a tv show.  your politics are blinding you or you haven\'t really watched the show and paid attention.  the lady president is an independent and the speaker of the house is her evil foe and he\'s a democrat.  get off your halliburton horse and pay attention, only then will your opinion be informed and therefore actually mean something.",1,TV-Show,SocialMedia,No,1,-1,1,-1,-1,1,1
+529,I love each weeks story line. for those who say this show is not realistic then i must say that you don\'t have a very good imagination. this so is awesome.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+530,The canned laughter kills me. terrible,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+531,"Hilarious, and good underlying values",1,TV-Show,SocialMedia,No,1,1,-1,1,1,-1,1
+532,Lost interest after ten minutes. the doctor is just grating.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+533,Bring back jericho!!!  it\'s a pleasant change from all of the stupid reality shows.  life is real--give us more creativity!!!,1,TV-Show,SocialMedia,No,1,-1,-1,1,-1,1,1
+534,"One of the stupidest shows on tv.  crime lab guys do not interview suspects, they do not carry guns, they do not get involved in car chases, fights, etc.  plus, the science is just wrong most of the time.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+535,"My daughter and i have really enjoyed this show. it keeps you guessing about what will happen to these people. just frustrated with abc, they keep taking it off the air for long periods of time. hope they stick with the show and keep it for a second season.",1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+536,I don\'t know what abc is thinking.  this is probably the worst show on television right now.  the nielsen ratings prove it.  very few people are watching.  abc needs to cut it\'s losses and put something worth watching on.  j. j. abrams is completely overrated.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+537,"One of the best dramas on tv! the sci-fi aspect will turn some off i\'m sure but give it a chance and it will hook you. very dark, almost brooding storylines and plot twists. this is quality television.",1,TV-Show,SocialMedia,No,-1,1,1,1,-1,1,1
+538,"One word to describe this show. stupid!!! oh wait do i see the cancellation axe this coming season, me think so",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+539,This is a fantastic show and i hope it stays on for another 10 seasons at least!,1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+540,Er once was a good show. now it feels it needs to shove stale politically correct nonsense down our throats every episode. last week\'s episode began with an unnecessary cheap shot at condi rice. the new characters are silly and dull. the plots are getting worse each season.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+541,Good program.this should be on saturday nights.,1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+543,I love this show.  excellent story lines,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+544,This show is over rated and is a tool,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+545,"Wow, imagine that.  a doctor with an attitude.  this has to be a first on t.v.  is there a bunch of 8th graders writing this crap",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+546,I used to love this show. but the political slant that they keep infusing takes away from the humor.  not to mention the over emphasis to sex as if they can\'t be more creative.  i just can\'t give it any more time.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+547,The best show there ever was. it will never die.,1,TV-Show,SocialMedia,No,-1,1,1,1,-1,1,1
+548,"The most overrated show on tv. yes, it has some funny moments, but all the hype is ridiculous. there is a reason why it is on the verge of cancellation.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+549,Very interesting idea even though it will never hold a candle to west wing. i can not stop watching it though.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+550,This show is hokey and the characters are unrealistic. forensic mystery stick with the csi\'s...,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+551,I cannot get enough of this show! the halloween episode made me laugh until i cried.,1,TV-Show,SocialMedia,No,-1,1,1,-1,1,1,1
+552,"It is nice to know the story of how clark kent became superman, but this show is way too dark for younger viewers. i know they are making superman look like he suffered a lot, and that is what makes him a hero. however, the scary images are getting out of hand, and it is turning into another x-files.",-1,TV-Show,SocialMedia,No,1,-1,-1,1,-1,-1,1
+553,Best show on tv.  kiefer sutherland is phenomenal.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+554,How much longer do we have to put up with david caruso\'s awful acting.  the man couldn\'t act in nypd and the movie jade was terrible.  please do us all a favour and get rid of him.  till then i\'ll watch csi  vegas. grissom has talent.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+555,"Unpredictable and interesting.  i want so badly to know what is going on, but i fear i will never know.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,1,1
+556,Interesting start... the characters seem a little overdone (especially donald sutherland\'s character) but it has potential.,1,TV-Show,SocialMedia,No,-1,1,1,-1,1,1,1
+557,Best show ever... besides seinfeld,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+558,"I don\'t like how plots are introduced and dropped for long periods of time.  i sometimes think this show is a weak tv movie.  the cast does not look stranded, in terms of their appearances.  but, it\'s gifted in that it keeps you tuning in.",-1,TV-Show,SocialMedia,No,-1,1,-1,1,-1,-1,1
+559,A modern show that will become a classic. a great cast that made the show histarical.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+560,"Why is it still on the air, it sucked the first time i saw it and the last time, stop playing it",-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+561,"Best tv show going...period.  great interactive websites, too.  excellent character development",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+562,Poorly acted. poorly written. poorly conceived. would work better as a made-for-tv movie. do not watch this show.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+563,"I enjoyed this show.  kept me interested, and i plan on watching next week!",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+564,Love this show.  very entertaining.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+565,"Lots of unnecessary gore.  character development is very weak.  plus, the basic premise is stupid - forensic crime lab guys don\'t go out and question witnesses and get into shoot-outs with bad guys.  they could have at least made the show a little realistic by partnering the crime scene guys with actual detectives.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+566,Great show. very entertaining!,1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+567,"It looks like luca bratzie is going to make it with abbey again. you\'d think that he\'d be smarter then that. sadly, this show is going no where. no storyline to speak of.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+568,This show made its stand and broke from the pack during its intitial mini-series run. nothing can touch it. the writing and the actors will break your heart as you watch because you hurt when the charracters hurt. you feal what these guys are going through.,1,TV-Show,SocialMedia,No,1,1,1,-1,1,1,1
+569,I was not really into this weeks show. i saw better series of csi.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+570,This is the best show on t.v. fox should not cancel it because it is very addictive. i love justice!!!,1,TV-Show,SocialMedia,No,1,1,1,1,1,-1,1
+571,"Shades of the love boat!  plenty of eye candy, but the stories are pretty weak and too cute by far",-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+572,Great show great actress (davis) why hasn\'t it been on,1,TV-Show,SocialMedia,No,1,1,-1,1,-1,-1,1
+573,"The pity is that, while geena davis is perfectly believable as a president, the show as a whole is so utterly unbelievable as to be an embarrassment.  it can\'t seem to decide whether it is a drama, a soap opera or a sitcom.  it suffers mightily from comparison with the west wing which, admittedly, is a bit long in the tooth.  but at least it makes a good faith effort at realism and tries to get its facts right-and doesn\'t ask us to believe, for example, that the president can intervene in a state death penalty case!",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+574,"This show is the cest. i\'ve become involved with the characets and want to see more.  what happens to the town, people, country and world this is fiction but i can see this happening at some point for real. keep it on !!!!!",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+575,Over rated and the people cant act worth crap.....this show is only for people who are tools,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+576,"Always interesting polt line, great clothes, and sometimes absolutely hilarious",1,TV-Show,SocialMedia,No,-1,1,1,1,-1,1,1
+577,"Not everybody loves raymond.  the only joke here is that the idea actually found its way onto the airwaves.  in other words it\'s just one joke less than a one joke program.  as with most sitcoms, it appeals to those with an intellectual development that was stopped at age 8.  fortunately they did have the good sense to employ a laugh-track so that the audience will be signaled whenever something is broadcast that was intended to be funny. the program amounts to a scandalous waste of talent.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+578,Prison break is the beat show for the time lost is a baby vs this show=),1,TV-Show,SocialMedia,No,1,1,1,-1,1,1,1
+579,"Sorry, i\'ve given ga several chances and it\'s never delivered more than what it is: a predictable, prime time melodrama geared to the feminine soap opera audience.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+580,"I absolutely love this show. it is, in my opinion, a better version of friends!! i have noticed that it doesn\'t get as much press as it used to. i hope it doesn\'t get pulled! i love it!!",1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+581,David caruso is just not good.  he jut seems like he is being so forced to say or do thing on the show!  no emotion what so ever!!  they need to replace him with someone who has more character.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+582,"Try to not miss an episode. it\'s a mature comedy-drama, but one must apperciate the great line up of characters, and office politics. great show.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+583,"Good show, but takes way too manybreaks!!!!!!!!!!!1",1,TV-Show,SocialMedia,No,-1,1,-1,1,-1,1,1
+584,I love this show.  i watched the whole first season during the summer and looked forward to the second season.  second season.  7 episodes is just not enough.  counting the days until january.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+585,I\'m not liking this new season.  i really didn\'t like the fact that they changed the theme song.  it seems that the producers are trying to turn this show into another soap opera.  i\'d rather watch the old seasons than this new season.  they were lively and they had better directing.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+586,Omg best show ever! people who say its bad seriously have no life. the drama is amazing and it keeps you hanging and the actors are really good...what are you guys talking about i cant belive its getting cancelled! i still like it without mischa barton people who stoped watching it just because she died are not true oc fans! i lovee this show!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+587,"This has always been my favorite show until this past season with the new girl who replaced kate - i do not like the sophmoric, juvenile and sometimes nasty comments between her and tony.  last week she made a very dirty remark about the cat that came running out of the cat door at the victim\'s house that was totally uncalled for.  this is broadcast in the family hour and i would have been highly embarrassed if my your teenage son was sitting there watching it with me.  for that reason, i will not be watching it tonight.  please try to clean up the language on that show.  you will lose a lot of viewers otherwise.  don\'t ruin what could be a very enjoyable show to watch by stooping to such low and vulgar levels.  thank you for taking the time to read this.",-1,TV-Show,SocialMedia,No,-1,1,-1,-1,-1,-1,-1
+588,It makes me want to go back to vegas,1,TV-Show,SocialMedia,No,1,1,1,-1,1,-1,1
+589,"It would be better without david caruso.  however, he is amusing.  he never faces the camera, always the pose first, with the head either turned to left or right.",-1,TV-Show,SocialMedia,No,1,1,-1,-1,-1,1,-1
+590,"This is an awesome series that is thought provoking as well as intelligently entertaining. everyone thinks about a nuclear attack, this show demonstrates what might happen in your town.  every history/civics class in high school should be watching it.  what an amazing forum for discussion!  i cannot wait for the 7 new episodes...but a full 3rd season would be even better.  i am encouraging everyone to watch jericho, and will be buying the first season on dvd as soon as it is available.  thanks cbs...don\'t screw it up by canceling it again.  seriously, it was just peanuts last time, who knows what you\'ll get if you cancel again...elephant dung",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+591,I want kate back and i\'m sick and tired of tonys insecent banter...blah...blah. not as good as it used to be last year. also lose the female director..how unreal is this.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+592,"I discovered the show in about its 10th season, but was thrilled to view the reruns starting with season one. best characters:dr green, abby, luka, ramono, carter, weaver, and nurses. the show lost some its interesting stories and character interaction. i would hate to see the show get canned, but if the stories dont improve then they should pull the trigger.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+593,"It deals with real situations in life, i like it...",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+594,I keep trying to watch and enjoy the show that  i fell in love with (the practice). the characters are now cartoon characters at best. i was  able to sit through less than half of it last night. the liberal ranting is boring. i\'ve watched my last episode.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+595,I think this country is facing many problems and as this show matures the writers might be able tap into current events and explore alternative view and solutions to these problems.  this could be a very fine program.  a program that would cause people,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+596,"I\'m not impressed.  it\'s not at all realistic, and i don\'t care about any of the characters.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+597,House is great and i am happy that someone has finally forced the issue of his addiction.,1,TV-Show,SocialMedia,No,-1,-1,1,1,-1,1,1
+598,"Love this show. there\'s a kid dying in one of the exam rooms, but the md won\'t treat him because he doesn\'t want to be in the same room with his  x-nurse/girl friend. how dopey is that",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+599,Most excellent.  but where is it  i hope it has not been replaced by october road or whatever the name of that show is.  october road is blah.,1,TV-Show,SocialMedia,No,1,-1,1,-1,1,-1,1
+600,"Occasionally funny, but most everything about the show is so mean-spirited, i\'m amazed it\'s so popular. kind of sad, really.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+601,"Unique, engrossing, edge-of-your-seat story covering almost every genre! writing and acting also excellent.  best thing to come along in years!!! plays like a movie.  everyone who watches jericho is hooked immediately!  only reason this would be cancelled again is that someone in charge just doesn\'t want it to happen (for what reason, i can\'t imagine).",1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+602,"This show flew too close to the sun and its wings have since fallen off. too many dead, but is he/she really plot lines. and they are too hot and cold with the quasi-da vinci plot line. either go with it or not. watch lost. it\'s better.",-1,TV-Show,SocialMedia,No,-1,1,-1,-1,1,-1,-1
+603,Hugh laurie is to good!!!  tumbs up to the writers^^ u guys no how to use sarcasum and use it well!,1,TV-Show,SocialMedia,No,-1,1,1,-1,1,1,1
+604,Crap soap that poorly portrays stuck up white prissy teens in newport.  we are not like that.  all fox drama soaps suck.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+605,"This show is the best legal show in years. the cast is amazing, the storylines are well-crafted & believable. my wife and i haven\'t missed an episode yet (even though it\'s constantly moving).",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+606,Terrible ending for this years show!! may not watch again... too negative!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+607,"Finally a new idea for a tv show, there still is a little creativity left in the world",1,TV-Show,SocialMedia,No,1,1,-1,1,-1,1,1
+608,The show just isnt funny  and the actors arent that good,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+609,"Very funny - ranks up there with other current shows such as a the simpsons, arrested devolpment, and scrubs",1,TV-Show,SocialMedia,No,1,1,-1,1,1,1,1
+610,"Great show.  meredith is the only weak link.  even though she has a medical degree, i think she may actually be simple-minded.  fortunately, the rest of the characters are more than strong enough to carry the series.",1,TV-Show,SocialMedia,No,1,1,1,-1,1,1,1
+611,"Vapid, mindless, numbing.  yes, there are some good looking women and men, the music is good and the photography is flashy.  but the stories never get beyond who\'s screwing who (literally and figuratively).  there\'s no originality, no depth, and nothing to hold your interest.  don\'t waste your time on this dreck.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+612,"Must see tv. informative as well as funny. in my opinion if there is a week point it\'s the interviews. sometimes i stop watching it at that point unless it\'s someone important. also the shows a little weaker without stephen colbert, his new show is lame, he should have stayed with the daily show.",1,TV-Show,SocialMedia,No,1,1,1,-1,1,1,1
+613,"Give me a break, if i was his wife i would have left him at the altar",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+614,"It was amazing to realize house is played by a brit. he stays in charector, and although i love the nasty guy, i\'d hate to find i had a doctor with that personality. the show is fascinating on a diagnostic/investigative level. a show that plays up to the audience instead of down to them.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+615,This show is funny but it should be aired no earlier than 9:30 est,1,TV-Show,SocialMedia,No,1,-1,1,1,1,-1,1
+616,"Best new show this season, only one worth watching",1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+617,"This show has had many jump the shark moments.  but when sam blew away her ex at the end of this year\'s season premiere, i think the shark may have jumped out of the water and bit the series in the a**!  and what\'s with the new theme music  i could be in the garage and hear the old theme and know what time it was!",-1,TV-Show,SocialMedia,No,1,-1,-1,-1,1,-1,-1
+618,This is the best show in television!!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+620,"Much like rescue me, this show presents a character that should for all reasons be disliked - yet he is sympathetic.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+621,"After one season, it\'s already jumped the shark. mystery upon mystery upon weird happening upon bizarre occurrance upon . . . i can\'t get myself to care anymore. and the characters are just profoundly dumb beyond belief.",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+622,Anybody who saw office space and 40 year old virgin would appreciate this hilarious show.,1,TV-Show,SocialMedia,No,1,-1,1,-1,1,1,1
+623,This show is quite boring and irrelevant.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+624,"Great acting byt the dude who plays house. he was robbed of the emmy. worth watching. love the romance between house and his \'i want to save you\' student. (but between you and i, i\'d hate to have this guy as my doctor.)",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+625,"Bad, bad, bad, and just bad. insipid to the extreme. the incredibly bad actress that plays lana is like fingernails on the blackboard.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+626,The twists and turns in this show keep you glued to your seat and wishing that you could watch the episodes together instead of having to wait until the next.,1,TV-Show,SocialMedia,No,1,1,-1,1,1,1,1
+627,"In season 1 it was great, original, ist time a show was presented in real time, season 2 interesting, we all wanted to know what was next with poor widower jack, season 3 ahh we were just about to get tired of the same story, season 4 jack bauer new love interest, audrey brought the interest to season 4, season 5 a great idea for the show president us the bad guy and jack & audrey couple made the audience attracted to the show again, but season 6 is the same all story, jack the immortal, well i know he cant die but i hoped i was going to see a great plot as in season 5  too bad!)i like the show and i was giving the show another opportunity but after i heard tony almeida didnt like heaven and its back, its to much, not only jack bauer is immortal, but also his buddy! i like carlos as an actor and also i liked the character, but he was dead come on! you dont need him to bring the attention back to the show, just have a nice plot and bring people alive back like kim or audrey. thats it",-1,TV-Show,SocialMedia,No,-1,1,1,-1,1,-1,-1
+628,Cw has made a big mistake.  reba was one of the best clean shows on air.  i would rate above a five if given the opportunity.,1,TV-Show,SocialMedia,No,1,1,-1,-1,1,-1,1
+629,"Once upon a time, er was a strong 4 or even a 5. today it is a shell of its former self and really should not return for a new season. a shame really, as the show still provides a great venue for some of its stars. alas, the reason to watch has departed along with the original cast...",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+630,This show is awesome! if you don\'t like it you should try watching it unedited on hbo not tbs where they edit half the funny stuff. though we all know that nobody actually acts like they do its still entertaining and fun! lighten up you guys!,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+631,"The show was ok, but not as good as i had hoped for...the previews was funnier than the actual show...",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+632,This was a great show.  i\'m really mad they took it off the air and left us all hanging.,1,TV-Show,SocialMedia,No,-1,1,1,1,-1,1,1
+633,David caruso needs to quit over acting. he kills the show.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+634,"Excellent storyline, sparkling cast, dedicted crew and passionate fan following.  a show that tackles head on, the taboo subject of nuclear warfare and aftermath...what\'s not to like",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+635,Probably the best show out there...,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+636,Not everybody loves raymond.  i rate this show just above watching paint dry.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+637,"This is a great show!  chemistry, drama, and adorable stars!!  has it all...worth a watch!",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+638,"Love the show and i am sad to stop watching, but the liberal message is louder than the good acting and writing.",1,TV-Show,SocialMedia,No,-1,-1,1,1,1,1,1
+639,Very hillarious show! you\'ll laugh continually!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+640,"Stopped watching this program because everyone seemed to be so angry all the time, especially house and his boss.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+641,Love the show!!!! one of the best written and acted shows on tv!  it\'s so nice to actually watch a well written and acted show rather than all the reality tv out there!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+642,Next to \'scrubs\' this is the 2nd dumbest show on t.v.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+643,Great show with hilarious characters.  great story lines too.  definitely on tivo.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+644,This show has no potential and will be canceled,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+645,This show is teh awesome!!!1 i can watch it non-stop,1,TV-Show,SocialMedia,No,1,-1,1,1,1,1,1
+646,"Er was excellent in the beginning... now - it\'s just not. very disappointed in the newer ones. i too, want the old er back! lol... house and greys anatomy have taken over!!!! yea!",-1,TV-Show,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+647,"24 is the greatest show ever.  every second is action packed and you never know what is going to happen. although season 6 was the most boring season, it was still extremly exciting and i can hardly wait for the 7th season to start in january.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+648,I love this show. it is very innovative.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+649,Should have been called everyone emasculates raymond because that\'s what you get: constant and repetitive husbands-are-dumb-and-weak story lines....much like a lot of advertising these days.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+650,"Smallville is an awesome show it has everything romance, action,and anything you could think of!!!",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+651,It\'s getting somewhat boring and kinda like a soap. too bad :-(,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+652,I love this show! great to have something to watch on friday night.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+653,"Jon is an excellent host, and all the people complaining about how jon is liberal, stop listening to everything o\'reilly tells you. jon stewart actually makes more jokes about democrats than any other late night host. he interviews both the left and the right. sometimes his jokes may seem more liberal but that\'s only because his audience is in the 18-24 range, and those people happen to be more liberal.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+654,"Lame sarcasm, poorly delivered.  i love the daily report with jon stewart, and really used to enjoy the little bits colbert did.  here we have him for a whole show and it sucks big.  i won\'t even watch 10 seconds.  it just came on again and i turned off the tv.  then thought, this show is bound to be gone soon, why hasn\'t the network pulled the plug  that\'s the only thing funny here --why is this lame show still on the air   bring on something i can stomach. hooray for him for getting the big bucks to go on for a season,  now let\'s move on.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+655,"Excellent show with great potential and keeps you waiting for each show. only show i stayed up for after 9pm for, during a work week.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+656,Eww it was so boring and its not even funny...i dont get why people say it is cause its not at alll,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+657,"Hugh laurie must be the best actor to pull off such a hard character, watch it - you won\'t be disappointed.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+658,"Dumb show about nothing.  what have any of the actors done since this show went off the air.  oh yea, one failed sitcom after another.  should tell you something about those three individuals and their talent.  and jerry  thank god we don\'t see much of him anymore.  annoying, egomaniac, jerk best describe jerry seinfeld.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+659,"A fun, interesting take on a younger clark kent and all the things that shaped him, lois lane, and lex luthor into the characters we came to know so well. definitely worth watching. most always interesting.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+660,"I am woman hear me roar, in numbers too big to ignore....... we\'re fierce, we\'re feminazis, and we\'re in your face!!!!!!!!!!!!!!!!!!!",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+661,"I never do these things, but had to. i just realized that i hadn\'t seen the show and wondered what\'s up. did a search and saw it was cancelled, bummer....it was getting good. here\'s the deal though.....i don\'t care if you like it or not, some of the ratings were ludicrous....especially the one that says liberals are morons and don\'t love their country. take it from a republican turned independent, it\'s just that kind of statement and sentiment that is divisive. like or don\'t like someone.....who cares, but stop the name calling and grow up!",1,TV-Show,SocialMedia,No,1,1,-1,1,-1,-1,1
+662,At least you can watch it with your grandma....,-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,1,-1
+663,Terrific show! i enjoyed it.  great chemistry.  i bought the scene it game and i totally dominated!!! i\'m a friends 4 life!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+664,Horrible.  fantasy island comes to the white house.  wont last.  very unrealistic.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+665,Love this show.  the science is interesting an the characters play off one another fantastically.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+666,"Tucker carlson is right, jon stewart is the butt-boy for the entire liberal weenie crowd.",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+667,This is the best show on tv and it\'s been pulled. it just goes to show that hollywood doesn\'t like a successful strong woman in hollywood!,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+668,This show is a propaganda-filled knockoff of the west wing.  it is essentially a one hour ad for hillary clinton\'s 2008 presidential campaign.  it is also like a lame duck hybrid of the west wing and the brady bunch.  it doesn\'t work.  i watched one episode before i realized it sucked.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+669,The best show on tv right now. house is fun to watch.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+670,I don\'t get the popularity of this show.  i find it boring!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+671,"People let\'s face it, tv greatest show  love the cast and story lines.  nobody else has such great story telling, only wish the gardener would come back as a regular and make trouble for gabrielle and her sexy husband",1,TV-Show,SocialMedia,No,1,-1,1,1,-1,1,1
+672,"I got some laughs out of it when it was fresh.  it just doesn\'t work in reruns, there\'s only so many times no soup for you! can be funny before it gets real old.",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,1,-1
+673,Jericho is suspensful and griping drama keeps you coming back,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+674,"I turn it off or change stations , can not stand the show .. it is not funny and the one jerk who talks though his nose is not funny.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+675,"Er was once one of the best shows on tv, but the writing has gone downhill.  the past couple of seasons were really weak.  time to call this show.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+676,"To put it short.  a good, entertaining show.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+677,I\'m glad this show is gone.  now all i have to do is avoid re-runs.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+678,I can see why nbc decided to keep this show despite its low ratings. i hope this show will find an audience because it is pretty hilarious and carrell is great as the office boss.,1,TV-Show,SocialMedia,No,1,1,1,1,1,-1,1
+679,"Commander and chief is nothing more than liberal ideology and propaganda, sprinkled with political correctness and liberalistic ideals. this show is horrible beyond comprehension. should be renamed vote for hillary clinton in 2008 two thumbs way down!!!",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+680,One of my 2 favorite shows. a great take on the superman story.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+681,"Since the start of the fall 2006 season this show has gone way downhill. it used to be smart,quick with creative interactions which have now turned to stereotypical adolescent sexual banter.previously i have watched each episode twice. going to give boston legal one more episode before i drop it. would love to know the behind the scenes negotiations that turned a great show into a  ship of fools. can\'t imagine bl keeping its fan base and lasting the year.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+682,"Jericho is the first tv program on the three main networks that i have watched in a very long time.  truth is, before jericho, i never turned cbs on anymore.  jericho is relevant to our time, (sadly), thought provoking as well as entertaining.  never before have i had a tv program to cause me to literally \'sit on the edge of my seat and hold my breath\'-repeatedly.  fabulous cast, great acting, realistic and this show has unlimited potential.  jericho fans have so many questions left unanswered-we need to know what happens to jericho and six more episodes are not enough!!!  come on cbs-what a platform you have-what dedicated viewers you have-i mean fan clubs-wow!!  jericho fans are now \'attached\' to the characters and this program, cbs help us to stay attached to you-keep jericho going!!!!!!",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,-1
+683,"Highly overrated, only mildly interesting. i don\'t see what people see in this show. it\'s watchable but not as good as people say",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+684,This is the most underrated show on tv! it has good actors good storyline and a bit of a scare.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+685,"Used to rank a 5, but really gone downhill since lake bell and rhona mitra left. the leftist-hollywood slant has become so forced and candice bergen has to be the most over-rated hack of an \'actress\' i have ever had the misfortune of viewing.",-1,TV-Show,SocialMedia,No,-1,1,-1,-1,-1,-1,-1
+686,Awesome!!  love the show. watch it if you haven\'t yet!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+687,It\'s ... ok. a little too soap-opera for me. like a twisted dallas meets bewitched.,-1,TV-Show,SocialMedia,No,-1,-1,1,-1,1,-1,-1
+688,Much better than the original.  the best sci-fi show on television.,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+689,It\'s ok. some jokes are funny and some are just plain dull.,1,TV-Show,SocialMedia,No,-1,1,-1,1,1,1,1
+690,I loved this show and was one of a few that i was looking forward to returing for the next season. was very upset that they pulled the plug...and without anything said!,1,TV-Show,SocialMedia,No,1,1,-1,1,1,1,1
+691,They got rid of everyone over the age of 35. it\'s now about teenage doctors and their stupid problems.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+692,"A very funny show! there are moments that play exactly like my own work environment, and steve c. as the psycho boss is terrrific. believe me, people like dwight do exist!",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+693,"Love this show, but every episode seems to leave the viewer with more questions than answeres.",1,TV-Show,SocialMedia,No,-1,-1,-1,1,1,1,1
+694,"Is it just me, or does caruso remind you of william shatner and his bad acting it\'s like nails on the chalkboard when he goes into hit \'bit\'. how many times does he have to use the name of the person he\'s talking to in a conversation well ......... dave. it looks like we\'re going to have to ..... arrest you .... dave. it\'s not looking too bright for you ........ dave. *follow up with lowering of sunglasses and then hands on hips* ugh ... the worst of the csi\'s.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+695,His show is much better than jon stewart. jon stewart is too dry. colbert is the man,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+696,"Started off really strong, but they needed to pick it up a notch or ten for season 2 and season 3 isn\'t that great so far either",-1,TV-Show,SocialMedia,No,1,-1,1,-1,-1,-1,-1
+697,By far one of the best shows out there,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+698,Another soap!   when are they going to stop it whith these.!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+699,"My favorite show. spader and shatner are terrific together. my only hope is that the stories don\'t get too over the top. a couple times this season, things got a bit unbelievable, but the show is still the best.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+700,"It\'s not the best anything ever...get over it.  it was an ok show while it was on.  it\'s done, let it go.  the reruns just hold up, it\'s not fresh or funny anymore.  it\'s was a show that was good because you didn\'t know what they would get into next.  now that we know, it\'s not that funny, it\'s old.  move on people, nothing to see here.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+701,Greatest show ever in tv history! =smallville,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+702,Jon stewart could make a hyena stop laughing.,-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,1
+703,This is a prime time soap opera. it alienates all male viewers. it\'s lamer than sex in the city.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+704,"Good edge.  characters are bad people, but you wanna root for them.  very creative writing in plot lines & dialogue.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+705,"His jokes are not funny...ever. and yes, he is a commie.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+706,"This show is possibly the greatest thing ever invented. plus, jack bauer is possibly the sexiest man i have ever seen. ever.",1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+707,"I hate this show.  seriously, it makes my skin crawl.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+708,Very good science problem for students and adults learning about forensic science,1,TV-Show,SocialMedia,No,-1,1,1,1,-1,1,1
+709,"I really like csi (the original), but the characters on this one are just painful to watch, especially caruso.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,1
+710,I really wish nbc would back this show more than they do. it is the best they have out there.,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+711,This show sucks... and you\'re stupid if you actually like it,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+712,This show is pretty good i only watch 3 times though.,1,TV-Show,SocialMedia,No,1,1,1,1,-1,-1,1
+713,Has gotten tooooooo libreallllllllll for me. i took it off by tivo season pass last night,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+714,"This is best show ever on tv.  the character house, is acted so well by hugh laurie. you can get so involved with all the characters & understand them . that\'s what makes this show great. house is actually not so mean when you understand him.",1,TV-Show,SocialMedia,No,1,1,-1,1,-1,1,1
+716,"Quite the show! i only wish that i would have watched the first season rather then the start of the second season...oh well, it\'s still great!",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,1,1
+717,"I used to watch this show when it was called beverly hills, 90210.",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,1,1
+718,"This is one of the best tv shows ever on. sure star trek was good but did it seem real outside the ship no way! this one was well done, high tech, the premise great, the humor on the mark, action, drama, morals, ethics, charm. the characters and actors were great, and i miss them. what does fox just play darts to decide what it shows now, except for house fox has nothing. nada",1,TV-Show,SocialMedia,No,1,1,1,1,-1,1,1
+719,Another show that inspires apathy.  after a few episodes i found myself actively avoiding it.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+720,A great show! very unpredictable. keep the episodes coming!,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+721,A terrible program aimed at teens but really not for teens....what a shame! garbage!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+722,"Count chocola-itis i love this show. sure the humor is rather dry but remember shakespheare one who laughs first is the smartest (i guess!). i love dwight\'s character, the annoying dweeb that is in most offices. :-)",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+723,What is with the blatent political bias can\'t we watch for entertainment value without being told that condi rice is a bad role model and that young black girls should look to oprah instead arrrrgh!,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+724,"Ray was a good sitcom because so many middle class americans who are white can relate to this show\'s premise. no, under any circumstances can a fan tell me that this show was a classic. ray is a solid sitcom but hardly a gem and hardly in the same league with classics such as \'arrested development,\' \'fraser\' or \'seinfeld.\'",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,1,-1,-1
+725,"This show used to be great, but it really dropped after the first season. mischa barton really brought it down...she was a horrible actress. maybe it will pick up now that marissa cooper is dead...but i doubt it.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+726,I really cant wait for this show to come back...is it going to soon,1,TV-Show,SocialMedia,No,-1,1,1,1,1,1,1
+727,"Worst. show. ever. i tried watching an episode, and i had to turn it off after 10 minutes it was so bad. its not good drama, its just titilation. this will be something that people look back on in 10 years, laugh and say man, what were we thinking",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+728,"A great, great show, always exciting. and kiefer sutherland is the best actor on tv, hands down. no one can say, or millions of people will die! the way he does.",1,TV-Show,SocialMedia,No,-1,1,1,-1,-1,1,1
+729,"Jericho is the best tv show i\'ve ever seen!! i love it, and i hope that continuous after 2nd season!! live jericho!!      from laura-spain!!",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+730,This boring show was around for too long. change the channel.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+731,Suspenseful with a very touching ending,1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+732,"Garbage, maybe if rappaport realized he wasnt still in the movie zebrahead, it wouldnt be so bad",-1,TV-Show,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+733,"Brilliant... superb plot , very interesting, almost as good as lost",1,TV-Show,SocialMedia,No,-1,-1,1,1,1,1,1
+734,"The main character\'s acting is terrible, but the rest of the show really makes up for it. its interesting enough to come back every week, but it would be really nice if the main character could show a new facial expression.",1,TV-Show,SocialMedia,No,1,1,-1,-1,1,-1,1
+735,The height of predictability.  at least the science is slightly more accurate than those blasted csi shows.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+736,Absolutely love this show... but where is it,1,TV-Show,SocialMedia,No,1,1,1,1,1,-1,-1
+737,Lost intrest after the orginal cast left..apprently no one else has.,-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+738,"I\'m enjoying seeing what it might be like for a woman to be president and to deal with the resentment of men who wish they were in her shoes. it\'s tough to deal in dc.  her family life seems pretty real too, with interruption from the kids at very inopportune moments.  i like the way mac seems decisive and emphasis is not placed on her having mood swings and making decision emotionally.  she is intelligent and perhaps naive as far as how politics can work and that\'s probably how a woman would be in that position.  i do think it\'s a little neat the way situations seem to resolve in the weekly segment.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+739,"Absurd - and not at all in a good way. a hopeless mass of cliches and lame excuses for humor. the two leads are good (i hate that asian chick), but they\'d have to work miracles to make up for the writing.  i\'ve watched and waited for this pile of dullness to improve, but no dice. real lcd stuff - for retards is right on the money.",-1,TV-Show,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+740,"This is by far one of the best shows in abc\'s lineup. excellent scripting and acting. absolute crime that abc has decided to cancel it, and with a cliff hanger to boot. i feel that this show has an opportunity to become another x-files caliber series if abc had given it a chance to grow.",1,TV-Show,SocialMedia,No,1,1,1,1,1,1,1
+741,The boss gives best preformance since born in the usa.little bit sad but very consistent rock.fans would love it,1,Music,SocialMedia,No,1,1,1,1,1,-1,1
+742,This is absolutely freakin\' fantastic.  i am in love with this album.  buy this!!!!!!!,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+743,"Mr. potts  moved simon,,, a dream come true,,, beautiful and touching... go to you tube and see the beginning,,a gift for your life.....enjoy....an opera fan...",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+744,Paul potts was a surprise on utube--and i believe that his cd lives up to expectations.,1,Music,SocialMedia,No,1,1,1,1,-1,-1,1
+745,The music is ok.  probably better if i had seen the show.  i got it in good time.,1,Music,SocialMedia,No,1,1,1,1,-1,-1,1
+746,All of these songs sound very similar and it\'s almost like they made some hearts part 2. would enjoy a more country feel.,-1,Music,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+747,"I heard that this album was horrible, i listened and they were right.  did even sing?  i know she can\'t, but i don\'t even hear anything but computers against completely bland tunes.  avoid at all costs.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+748,This was one of the best christmas cd\'s i have heard in a long time.  great arrangements of old favorites.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+749,"I love me some fogerty but the \""i hate bush\"" whiny stuff ruined it for me...... oh well",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+750,"They broke the mold. relevant, nostalgic, evocative. feel more and more about bruce\'s music the way i did, do, when i throw in blood on the tracks - quieted, struck, by what it has to say.",-1,Music,SocialMedia,No,-1,-1,1,-1,1,-1,-1
+751,I did not like most of the lyrics or sound.  there were only 3 songs that i would put on my ipod and i\'ll probably skip them most of the time.,-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+752,I love this cd and my friends and my family love it too. that\'s all i have to say,1,Music,SocialMedia,No,1,1,1,1,-1,1,1
+753,Carrie underwood does it again.  she proves she\'s no fluke.  this is a must-have album!,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+754,"I loved it! made me think i was sitting with my daughter watching it on broadway all over again.easy payment, fast delivery!",1,Music,SocialMedia,No,-1,1,1,1,-1,1,1
+755,"I purchased three copies of this cd for christmas gifts.  of course, one was for me.  i have enjoyed previewing this cd.  it is excellent like all of josh\'s other songs.",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+756,"I really enjoyed this album. paul has a truly beautiful voice. i\'ts nice to sit down,put your feet up and enjoy the music.",1,Music,SocialMedia,No,-1,1,1,1,1,1,1
+757,Listening to the sound track to get ready to see the play soon.,1,Music,SocialMedia,No,-1,1,1,1,1,1,1
+758,"I bought this after seeing wicked in chicago.  although i think the cd is great, i got to see and hear carmen cusack as elphaba and i think she sounds much better than the original cast on the cd.",1,Music,SocialMedia,No,-1,1,1,1,1,1,-1
+759,The kid has done an excellent job here.  this album shows a genuine talent that i personally had not seen before.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+760,"I love a.k. and r.p. but this album is awful, i hate it.  i sold it the very next day after i bought it.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+761,"I am not a fan of country music, but this album is awesome! carrie underwood\'s voice is amazing. she displays such a range, not just vocally, but also emotionally. and on top of all that, she is beautiful!",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+762,"Pleased that potts won the contest, the cd was disappointing. not ready for prime time. i blame the cd creator for poor music selections for potts debut album.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+763,"Pure power and passion, and i was never a bruce fan but this album is incredible..",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+764,"Droning , boring, poorly mixed garbage that is meant to make a quick buck using the e street band\'s name (since he hasn\'t been successful on his own in years). magic? hardly......tragic is a more apt title.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+765,I was pleasantly surprised by how good this record is...robert plant and alison krauss\'s vocals blend well together. there are a couple of songs that i skip over but mostly i really like everything on it.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+766,We bought this cd as we were going to see the stage show. both show and cd are first rate. the music grows on you as you become familiar with it.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+767,"I was just listening to the sounds clips and positively identified \""all summer long\"" exact as the same melody as \""werewolves of london\"", lol!  no joke - listen to the piano.  has anyone else picked up on this?",-1,Music,SocialMedia,No,1,-1,1,-1,1,-1,-1
+768,"Need to hear some more..........it\'s been imported in my itunes, along with over 14,200 other songs.......",-1,Music,SocialMedia,No,-1,-1,1,1,-1,1,-1
+769,"Wow, what a nice surprise.  this is an electic mix of bluegrass, country, and soulful sound.  beautiful combination of talent - highly recommended for any music lover.",1,Music,SocialMedia,No,1,1,1,1,-1,1,1
+770,"This cd is the best!!!!i really like every song,it just makes me wanna dance and enjoy the moment....if you are britney\'s fan it will not dissapoint you......if you are not it will surprise you!!!!buy it!!!!!!!",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+771,A very bad album there is no rock on this flop at all kid pebble really shines through on this disaster. tommy lee hit him harder than any track on this flop. i would like my money back,-1,Music,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+772,"This has become my favorite cd, i love bruce and the e street band, glad they are together again making \""magic\"" with this album.",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+773,"This album is not as good as the last one.  maybe three good songs this time, others get old fast.  i would save your money and only download the good songs.  not a kid friendly album.",-1,Music,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+774,This cd is not springsteens best but it is a very good album.like a fine wine bruce definately getsn better with age.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+775,I love every song on this cd.  i have seen him in concert 5 times and he is amazing!!!!,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+776,"Sorry, i can get excited over this cd, some good songs but more plant than krauss.  borrow it since it will never be found on the radio.",-1,Music,SocialMedia,No,-1,-1,-1,1,1,-1,-1
+777,"Just love the music on this cd, and still love fogerty after all these years!",1,Music,SocialMedia,No,-1,1,-1,1,1,1,1
+778,"I have been a fan for 30 years ,this is the icing on the cake   a great rockin fogerty album .",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+779,"This album is fantastic! his use of metaphors and imagery along with the sometimes pop-ish rythem makes this one of his best projects to date. thanks, bruce!!!!",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+780,"While the album is overall a quality buy, i admit that the foo fighters have created better work.  i loved their last cd and this one doesn\'t quite meet my standards.  still considered a buy.",-1,Music,SocialMedia,No,1,-1,1,1,-1,-1,-1
+781,Very nice item! and very well protected while shipping with a hard cardboard wrapper. 100\% ok!,1,Music,SocialMedia,No,-1,1,1,1,1,1,1
+782,"What an amazing album! i\'d swear it was recorded in the old ccr days. i\'m getting tickets to the concert coming to atlanta, very very good.",1,Music,SocialMedia,No,1,-1,1,1,1,1,1
+783,Production is horrible. everything is mixed up front. every song sounds like a jet taking off. all sounds mashed together into a loud dull roar.,-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+784,"Though it\'s not as good as classic matchbox 20, it\'s still pretty awesome. they hit every song that\'s been on the radio and more on their best of cd, and the new songs are pretty good too.",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+785,Josh grobanfinally a long awaited christmas from josh! its great i would recomend this to josh lovers.,1,Music,SocialMedia,No,1,1,-1,1,1,1,1
+786,I think everyone should have this cd. the music is amazing and now i want to see the actual show! it\'s that good.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+787,Words are not enough to say how i feel about this cd.  best ever and what a humble man who knows no bounds how far his gift rises to our souls.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+788,"It\'s hard to get thru many of these tracks once, let alone a second time.  what little talent bruce had is long gone. this cd should have come with free ear plugs and a bc powder.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+789,"Much more deliberate studio recording.  lacks the wild, free structure of the old days of e street.  still a great album with great writing.  springsteen fans should purchase without reservation.",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+790,"I am not an opera fan, but paul potts has such a magnificent voice that i enjoy listening to this cd over and over and...",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+791,"Theres one song on here thats awsome so small,the others i thought were okay but its nothing like her first cdbut it was okay.",-1,Music,SocialMedia,No,1,-1,-1,1,-1,-1,-1
+792,"I just have to say that i love this album!! can\'t stop dancing....go britney!! we all make mistakes, they only make us stronger and you are rocking it girl!!",1,Music,SocialMedia,No,1,-1,1,1,1,1,1
+793,I needed this cd like yesterday and i received it in a timely fashion.  thank you for your great service!,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+794,Motley crue are and will always be the rock genius\'s god is god kid rock should not have called his album that. white trash,-1,Music,SocialMedia,No,-1,-1,-1,1,-1,1,1
+795,"This new album is just bad.  bruce ought to stick to the bizarre folk stuff he was playing.  sadly, this album proves that he\'s too old to rock and roll any more.",-1,Music,SocialMedia,No,1,-1,-1,-1,1,1,-1
+796,This band keeps putting out one solid release after another. they don\'t have a single bad record in their catalog.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+797,The whole cd is great!! all 12 songs have a beat to dance to and a melody you can\'t stop listening to. britney does it again with blackout! i give it a 5.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+798,"A nice voice, but it\'s so predictable.  after teasing his fans with stretching his creative juices, he falls back on the predictable david foster-safe arrangements.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+799,"He always could write a song... pippin, godspell.. and you will hear some good ones here!",1,Music,SocialMedia,No,1,1,-1,1,1,-1,1
+800,Its a decent album.  the beats of the songs are great but the lyric are kind of random and leave a little to be desired.,1,Music,SocialMedia,No,1,-1,-1,1,-1,1,1
+801,She sounds drunk or disoriented. why are all these people saying she\'s back? this is horrible. i\'d rather listen to my garbage man pick up trash. awful.,-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+802,"What happened to o holy night? also, would have like to have heard i\'ll be home for christmas uninterrupted. i\'ll know i\'ll be critiqued by all the grobanites out there for saying anything negative about their beloved.",-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+803,This cd is fantastic. the lyrics are wonderful and well written. so hott is his best song since cowboy..buy it and enjoy you wont be disappointed.,1,Music,SocialMedia,No,-1,1,1,1,1,1,1
+804,I expected more from two such super stars. the music was is boring and doesn\'t showcase either of the singers\' talents.,-1,Music,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+805,Disappointing.  songs sound very similar - does she not have a band?  what is country with out some picking. all songs are in the shrill tone - no variety.  look for mine in the used section.,-1,Music,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+806,Each song on this cd presents a new color on annie\'s vocal palette.  the arrangements are amazing and more powerful and brutal than on her previous cds.  and her one-of-a-kind voice is phenomenal.  fabulous music!,1,Music,SocialMedia,No,1,-1,1,1,1,1,1
+807,The show is fantastic and so is the cd - i bought two just in case because everyone wants to borrow it and listen to it.,1,Music,SocialMedia,No,-1,1,1,1,1,1,1
+808,If you are a boss fan then this is a must have for your collection.  the sounds and stories are awesome.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+809,"This has to be her best cd yet. it was totally worth the wait, it is fun and makes you forget everything and just want to have a couple drinks and dance. great job brit!!!!!",1,Music,SocialMedia,No,1,1,1,1,-1,1,1
+810,"Contains a few good tracks but mostly filled with well constructed, yet forgettable background music.",-1,Music,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+811,With all the turmoil going on in her life i didn\'t expect much from her new album. its very good and would recommended to any britney spears fan.  she still has it (at least in her professional life!),1,Music,SocialMedia,No,1,1,1,1,1,1,1
+812,Not knowing anything about the story line.  waiting to see the musical.  good music and vocals.,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+813,This is a beautiful christmas cd.  the duet with brian mcknight is incredible....goosebumps every time!,1,Music,SocialMedia,No,-1,1,1,1,-1,1,1
+814,-an excellent album; produced well.-fine choices demonstrating paul\'s unique vocal range-i was impressed with the quality,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+815,Paul was sent to us to fill the spot left vacant by the departure of luciano pavarotti.,1,Music,SocialMedia,No,1,1,1,-1,1,1,1
+816,"Not yet up to our great tenors, but perhaps on the way.  easy listening.",1,Music,SocialMedia,No,1,1,1,1,-1,1,1
+817,"While this album is no \""born to run,\"" it is still unreal.  this album is just plain amazing!  buy it!  seriously...buy it.",1,Music,SocialMedia,No,1,1,1,1,1,1,1
+818,"If you are a kid rock fan you will love this cd. it has less rap and more rock, but is still very good.",1,Music,SocialMedia,No,-1,-1,1,1,1,1,1
+819,I listened to this cd once. never again.  monotonous versions of once beautiful songs are done with way too many horns and dreadful sound quality.,-1,Music,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+820,"This was for me a total let down the production was off, way to much base,  the rave reviews do not hold up.get the new neil young instead.was this helpfull for you? yes or no",-1,Music,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+821,Lovely music; enhances the book a great deal!avid reader & lover of musicals,1,Music,SocialMedia,No,1,1,1,1,1,1,1
+822,This camp is denial.  If you love your kids don\'t send them there.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+823,I went to this camp for a hole summer and i never got board this camp is the best .,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+824,WAY TOO LOOSY GOOSY! THE COUNSOULERS ARE MEAN! I GOT HOMESICK AND NO ONE HELPED ME!,-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+825,"I went to Frost Valley with my school. It was horrible! The food tastes really bad, so I lived on cereal. The only fun activity was the cable bridge, which lasted 1 minute. I would not reccomend this camp.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+826,"Damn that was an awful camp.  worst week of my life (yes i LEFT AFTER A WEEK) the people are obnoxious and rude.  the counselors are okay (some of them) but over all, ew.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+827,This is a wonderful camp with an emphasis on girl run program.  Meaning the girls in each unit outline which activities they want to undertake throughout their stay.  The staff are well trained and energetic.,1,Camp,SocialMedia,No,1,-1,1,1,1,1,1
+828,"West hills; the best camp ever, made so many new friend over the years that i\'ve been going to camp. (there\'s no other place to make friend like these)CAN\'T WAIT UNTILL SUMMER, SOPH\'S 0\'7 TEEN TOUR (****K YEAHH)",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+829,YES this camp is the most amazing thing on the universe.I have only one thing to say...MmMmMm...Jamie...,1,Camp,SocialMedia,No,-1,-1,1,1,1,1,1
+830,I wouldn\'t reccomend this camp because the staff was very unhelpful and didn\'t even acknowledge any of the problems my daughter was having. It is also rather expensive.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+831,"Any boy who comes here will grow emotionally, physically, spiritually, and mentally.",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+832,I didn\'t like it here. The wood was bad and it was so much money.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+833,My son will be attending for the first year. Owner personally came to my home and spoke with us. Personal attention when we dropped off the summer stuff. Campgrounds look great!!!!,1,Camp,SocialMedia,No,1,1,-1,1,-1,1,1
+834,This camp was ok&#63;&#63;&#63;&#63;&#63;!!!! my bunk suked and all the religion was ****annoyin,-1,Camp,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+835,I was a camper for 5 summers and then a counselor. it is stellar. i would recommend this camp to anyone. i still talk to all of my camp friends.,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+836,I will keep camp greenville friends in my life forever and my children will do the same.,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+837,"This could be the best camp.  The counselors are soooo nice.  But the broken ski boat is scary.  Hopefuly, April and Bob are coming back, and Janine - she\'s soooo cool.",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+838,"Worst experience ever.  Please, do not waste your money and go.  Try another camp.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,1
+839,"This camp isn\'t cheap at all! i don\'t know where you would get that from. it\'s over 5,000 for 3.5 weeks!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+840,IT WAS KIND OF SHYtty U COULDNT GET AWAY WITH ANYTHING!!!!! ITS ODD BUT ITS GOOD IN SOME ASPECTS    GO CHEERLEADING AND WELLNESS!!!!!!!,-1,Camp,SocialMedia,No,-1,-1,1,-1,1,-1,-1
+841,"My kids enjoyed it, but not sure i would send them back",-1,Camp,SocialMedia,No,-1,-1,-1,1,-1,1,-1
+842,"There were kids with designer luggage, bedding from Neiman Marcus and all clothing was Juicy.  If you are not an obnoxious, spoiled brat this camp is not for you.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+843,"This camp is HORRIBLE!!! everything about it is horrible too. kids are brats, councelors dont know what they\'re doing, activities get old, its bad. don\'t go.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+844,I LOVED OCONTO!!! i went 3 years.. i jus wish you didn\'t have to go for a month because its the best camp ever!!!!,1,Camp,SocialMedia,No,1,1,-1,1,1,1,1
+845,"This is a strict camp for losers, my camp plays their camp and their staff is strict about sports but we still beat them",-1,Camp,SocialMedia,No,1,-1,1,-1,-1,1,-1
+846,I LOVE ROBINDEL! I\'ve gone there for six summers now and it is the best camp ever! It\'s amazing!,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+847,My kids didnt have the best time too many kids in the pool,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+848,CONISTON IS MY LIFEEE. this will be my 3rd year. 23 DAYS BABYYY!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+849,THIS CAMP STINKS. THE WORST SUMMER OF MY LIFE. I HATE FAC,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+850,HORRIBLE! I went there one year and it was like i wasn\'t even there! if you want to go there DONT!!!!!!!!!!!!!!!!!!,-1,Camp,SocialMedia,No,-1,-1,-1,1,-1,-1,-1
+851,"I go to robindel now..this is going to be my 7th summer--omg i love it so much, for people who wrote bad comments its because you are losers",1,Camp,SocialMedia,No,1,1,-1,1,1,1,1
+852,"The activites were good, but the cabins are not. please mark, i am begging you to fix up thoose cabins. they are screaming KNOCK ME DOWN!!!!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+853,"Wow, best camp ever, im going for my 6th year and i love it, you never feel left out and you allways have so much fun!",1,Camp,SocialMedia,No,1,1,1,1,-1,1,1
+854,"If Chipinaw is that bad, how come it is always booked&#63;!&#63;! Something must be going right!!!",-1,Camp,SocialMedia,No,1,1,-1,-1,-1,-1,1
+855,I worked here and some of the staff don\'t exactly set the best examples for kids.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+856,CP is the best camp!! everyone there loves camp and only wants to make it better for the younger campsers!!,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+857,I had the worst experience of my life here. Everybody was always getting hurt or sick becuase nobody cared what was going on. Nobody cares if you are being bullied or if you are miserable. Never again.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+858,"Camp oconto is wonderfull , im an awakening camper , the oconto campers are so nice and the counsulers are great peopleee , cant wait for next yearrr",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+859,"I went here for 5 years, and I will not come back.  This camp is not for me.  I don\'t like sports, I like swiming, boating, water sports, and acting.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+860,Talcott is the best!!! LOVE IT. im a 5th year. its not to expensive and the people are so chill its awesome.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+861,"Very Obnoxious people there..don\'t watch the kids well-they are too busy socializing..very unsafe if u ask me, the groups are huge...VERY OVERRATED..Go to West Hills-better camp for your money!",-1,Camp,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+862,I thought the staff were bad.and the food was terbley.I wen\'t there for 2 years i hate it never go there,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+863,"This camp is where i have met the majority of my friends, it is one of if not my favorite place to be.  I want to go back there more than anything (for my 7th year) as a CIT.",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+864,Owner is arrogant and doesn\'t really care about the kids\' needs. Hard to get attention from staff. The kids are friendly if you come from their town; if not forget about it.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+865,Camp wAs so fun and staff was amazing. food wa GRRRRRRRREAT and russle is the coolset councler                                                                                                                 Jeff,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+866,By far the best place I could have spent my summers.  I learned so much and had so much fun.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+867,My daughter grew up so much as a result of her camp experience. she will definetely return next summer,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+868,Its a pretty good camp. a lot of counslors are mean but whatever. pretty good alotogether. :),1,Camp,SocialMedia,No,1,-1,1,1,1,1,1
+869,I would absolutly not recommend sending your child to this camp.,-1,Camp,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+870,Camp owner not friendly. He does not seem like a camp person as much as a business person.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+871,"Camps like ramah and kadimah are great, since the directors have respect for their staff.  Too bad Shalom doesn\'t.  It shows.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,1
+872,I said I love the Cove Camp (Camp Cedar Cliff).  Definitely could use some new programming and activities.,1,Camp,SocialMedia,No,-1,-1,1,1,1,-1,1
+873,"Staff is friendly, grounds are pretty, need more activities or less campers, not much personal attention and its VERY expensive compared to other camps that have all the same activities.",-1,Camp,SocialMedia,No,1,-1,1,-1,-1,1,-1
+874,Staff doent pay attention the are  to young no one knows who my child is thats not good when they take thousands of dollars and dont even thank you fot it next year ill try somewhere else,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+875,"Ugliest camp ever! Other than the good staff, i see no reason to go!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+876,This place has good activities but it is more like a program then a camp and the ppl are nice but 2 ****ty for anyones good.,-1,Camp,SocialMedia,No,1,-1,1,1,-1,-1,-1
+877,One of the best camps around. Yes it\'s not cheap but the campers get every penny\'s worth.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+878,Wahanowin is a camp that u can go and chill with youre friends and a lovely inviorment to be in !!!!!!!!!!!!!!!!!!!!!!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+879,"This camp is a nightmare! i have not had a worse summer! this is a scary, mean mess!! if anyone gives it a 2 or higher your crazy cuz\' this camp is the absolute worst!!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+880,"The camp\'s not that bad,but there are far better ones out there.and jill lies about what job your gonna do so watch out",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+881,I love FV i\'ve been going all my life and i\'m going to try to become a CIT. LIFERS FOREVER!!!,1,Camp,SocialMedia,No,1,-1,1,-1,-1,1,1
+882,The mother and baby program was unorganized and a waste of money.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+883,Camp Pembroke is great with everything except for the individual attention.,-1,Camp,SocialMedia,No,-1,1,-1,1,-1,-1,1
+884,"Disney isn\'t the happiest place on earth. berkshire hills is. from the staff to the grounds to the lake to the friends made, there is no place better.",1,Camp,SocialMedia,No,-1,1,-1,-1,1,1,1
+885,My son had an awful experience here. The counselors and kids did not pay any attention to him and started crying when he came home. Jappy jappy jappy. Jappiest camp.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+886,Camp Kennybrook has really been a summer home and second family to my children. The family atmosphere at Camp Kenynbrook really can\'t be beat. Go visit Kennybrook and experience it for yourself...It\'s absolutely worth seeing!!!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+887,Worst camp ever. i broke my arm and they gave me ice!&#63;!&#63;!. never go here go to windsor mountain international in NH,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+888,I just LOVE this camp. I can\'t even describe anything about it. It\'s just a warm feeling I get when I think about it.,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+889,This camp was bad the millers were so mean and all the people were nerds. wat the ladys said the long paragraf was total bs this camp SUCKS,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+890,"Greatest camp of all time, changed my life for the better and i never want to leave",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+891,"Very disappointed with the staff, food and activities. my child will not be returning",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+892,"Coniston changed my life in every positive way possible.  There is no safer place for a child to succeed, fail, make forever friends, be silly and learn who they are and what kind of person they want to become.",1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+893,"Food program was horrible. my daughter was not happy with the group..very large,..young counselors. will not be returning",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+894,This camp is the worst camp EVER!!! i dont get how any1 would like it here. I went for one year and by the second day I wanted to go home. FAC you SUCK!!!!!!!!!!!!!!!,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+895,Too ritzy to be called a camp. Go somewhere else to get a REAL camp experience.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+896,This camp was full of rich snobs. I won\'t ever go back I hated it.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+897,"Could be great, but same person keeps messing it up.  Get Bob and April back.  We need some stibility.  We know who really has to go.  Changing directors every year doesn\'t help.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+898,More bells and whistles than most... but just another camp...  Learn to read between the lines...Look at philosophy... nOt the paint job,-1,Camp,SocialMedia,No,1,-1,-1,-1,-1,1,-1
+899,It is the best camp ever i want to go there next year too!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+900,I tried it one more year and it was not better than last year. I wont ever go back.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+901,"Spent my entire childhood there and much more after..,it is a place where you form a family that will last a lifetime..and friends for eternity.. THC4EVER",1,Camp,SocialMedia,No,-1,1,1,1,-1,-1,1
+902,"Unless you live in Massacusetts and are able to see your camp friends often, dont go here - the girls are extremely cliquey and dont accept outsiders.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+903,"The facility, food, it\'s all descent but the idiotic people that attend this camp are basically rude, spoiled japs who will traumatize youre children if they aren\'t rich.",-1,Camp,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+904,Best summers of my life. my son will go here as soon as he is old enough. and my daughter will go to Crestridge. I can\'t say enough good things...,1,Camp,SocialMedia,No,-1,1,1,1,-1,1,-1
+905,"Great focus (Jesus), great staff, great facility, great place to be a boy",1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+906,This camp was not very good. it stunk!!  the counslers did not know anyones name it activites sucked and it was a HUGE waist of money. DO NOT COME HERE,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+907,DONT EVER GO TO THIS CAMP!!!!! THAT IS A YUCKY CAMP. YUCKY! YUCKY! YUCKY!,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+908,Am I correct when I read that the cost of this camp is $8575 per camper&#63;  With 300 campers the owners are taking in over 2.5 million per summer.Is this correct&#63;  If it is...it is obscene.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+909,Hahahahahahaha am i comig back next year guess what Kenny and Rick THE ANSWER is know,-1,Camp,SocialMedia,No,-1,1,1,-1,1,-1,-1
+910,"Bullies run the camp, from the kids to the administration.  Beware!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+911,Bad Summer. I wont come back.  It is not for me. I hate the activities.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+912,I worked here for one summer and loved my experience. the staff i worked with were fantastic and the facilities were great. Camp was well organised and great fun! an overall wonderful experience.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+913,Too many kids in the groups not enough attention give to the childs needs staff very nusy socializing and to much money,-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+914,The staff is very nice    the camp can use a facelift   the activities are good(the same as any other camp)    Attention given when needed   worth the money(lots).,1,Camp,SocialMedia,No,-1,1,1,1,-1,1,1
+915,"2007 will be our 14 year old daughter\'s 5th year attending Camp Seymour.  She loves it.  The staff is extremely professional, the camp is well organized, well run, in a beautiful location and it\'s affordable.",1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+916,Camp Lohikan is GUARENTEED FUN! Summer 2007 will be my fifth year and every year brings more and more fun. The Staff and Kids are GREAT!,1,Camp,SocialMedia,No,1,1,-1,1,1,1,1
+917,Love it soo much. best camp ever! trust me i went to other camps before this one but merriwood is my favorite one.,1,Camp,SocialMedia,No,1,1,1,1,-1,1,1
+918,This camp is for snobs. The owner is rude and only wants your money.,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+919,What an amazing camp with such wonderful staff!  I am sure this summer will be a major success!,1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+920,"Wow, So Muskoka Woods has to be the best camp ever established because you get such awesome skills and expereinces that you can look back on. Everything is amazing there, and its not for rich snobs.",1,Camp,SocialMedia,No,-1,1,1,1,1,1,1
+921,The staff meant well but the other campers were very cliquey and were bullies,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+922,If you want to go to a camp with jappy spoiled rich girls who just go here to talk about handbags and boys and clothes then THIS IS FOR YOU,-1,Camp,SocialMedia,No,1,-1,-1,1,-1,-1,-1
+923,I go to Kennolyn. It is awesome. The satff are great and the camp is beautiful.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+924,I am scared of this join! these are the meanest counslers EVER!!!!!! I would not call this camp a camp i would call it a DUMP!!!,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+925,Amazing experience for campers and staff. Very supportive and involved administration! Love Kenwood!!!!!!!!!,1,Camp,SocialMedia,No,1,1,1,1,1,-1,1
+926,"Ew this camp is horrible. its a girl only camp, so there\'s NO BOYS! dykes. if you ask me.dont go !! its horrible..",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+927,"This camp sucks t he people are so rude, and the food is worse than the school food. I used to go there when I was little, I can\'t believe older kids actually go there. Its for little kids!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+928,I love Muskoka Woods. I have been going there for 5 years and it is my favourite part of the summer:),1,Camp,SocialMedia,No,-1,1,1,1,-1,1,1
+929,I went there for 13 years when I was a kid. Now my daughter attends. She loves it as much as I did at her age. Truly a special place!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+930,I LOVE FA!!!!! It\'s the best camp in the land!!!  Can\'t wait till summer \'07!!!!!,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+931,Camp Wahanowin is the best camp. I really Enjoyed my summer there. Counclers were amazing and all of the water activitys were fantastic,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+932,Words cannot describe! It changed my life! I absolutely 100\% support Camp Cedar Cliff...its leadership...staff...philosophy... I will definitely be sending my kids there one day!,1,Camp,SocialMedia,No,1,1,1,1,-1,1,1
+933,I went with my school and i had alot of fun and memories.,1,Camp,SocialMedia,No,1,1,1,1,1,1,1
+935,"We really did not like this camp. After a dissapointing summer, we switched our 11-year old to another camp, and all of us much happier on all fronts!",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+936,Such a badddd camp! i hated it so much. dont go here =[,-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+937,Beautiful grounds and great bunks. Too much team sports and very competitive. Not enough choices for kids.(extremely structured) Only get to waterski four or five times all summer and not on sight. Mostly Long Island children.,1,Camp,SocialMedia,No,1,-1,1,1,1,1,1
+938,"This camp is stupid, annoying, and the girls are mean. they are so into looks and money, and nothing else.",-1,Camp,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+939,I love pembrook it was an amazing camp. I am so going to it next year!,1,Camp,SocialMedia,No,1,1,1,1,-1,1,1
+940,"I wasnt a fan of this camp, i felt like i was being babysat rater than camping, however everyone has thier own opinion",-1,Camp,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+941,I loved it when I was a camper and now my son is going to go there.,1,Camp,SocialMedia,No,1,1,1,1,1,-1,1
+942,"I like it better on the old station format, it seems that they are trying to do to much now. I love this guys, it is a complete entertainment",1,Radio,SocialMedia,No,-1,-1,1,1,1,1,1
+943,This show is recommended by 4 out of 5 transsexuals---Lil\' Jimmy Norton,-1,Radio,SocialMedia,No,-1,-1,-1,1,-1,1,1
+944,"Most listened to host on the market, that must mean something dont you think",1,Radio,SocialMedia,No,1,-1,1,-1,1,1,1
+945,"Finally, it\'s Howard the way he was MEANT to be heard...",1,Radio,SocialMedia,No,1,1,1,1,1,1,-1
+946,"If you don\'t say its the best, then you haven\'t listened to it enough....best show ever",1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+947,JV & Elvis are the funniest guys on NY radio and deserve a lot more respect from CBS than they get.  O&A are not all that funny and get to many prop\'s.  Peace out DDDOOOGGG HOUSE.,1,Radio,SocialMedia,No,1,1,1,-1,1,1,1
+948,"As a fancy man, I demand a fancy radio show.  Opie and Anthony absolutely foot the bill.  Anything else the competitors put out there stinks on ice!",-1,Radio,SocialMedia,No,-1,-1,1,-1,1,-1,1
+949,Bj\'s change from middays to AM is excellent. His cast is hilarious. The formula works.,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+950,Best show on satellite radio!! No doubt about it. The little doggy company has nothing even close,1,Radio,SocialMedia,No,-1,1,1,-1,1,1,1
+951,Very entertaining. I especially love the Strawberry Letter segment. It gives me a good chuckle for the start of my day.,1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+952,"El Rushbo has really tempered his edge in recent years, still leaps and bounds better than anyone else to date.",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+953,Couldn\'t care less about the war between FAHRID and Anthony and Howard...Howards the king and always will be,1,Radio,SocialMedia,No,1,-1,-1,1,-1,1,1
+954,"I love the show and the parodies. They should keep the limo driver off the show once and for all, he sqeals like a pig..so annoying! I am a little tired of hearing about Artie\'s weight problems!",1,Radio,SocialMedia,No,1,1,-1,-1,1,1,1
+955,Opie and Anthony have the funniest show in America. They are the true pioneers of Satellite Radio.,1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+956,"Very entertaining.. Not a Husker suck up show, like every other sports show in Omaha.",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+957,"Best ever! So much wit, humor. So right on with the straight facts of what\'s really going on. Her show from Iraq was stellar!",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+958,The O and A show is the most original show I\'ve heard in years.  They do a show for themselves and invite the world to join in. Not a show for their boss\',1,Radio,SocialMedia,No,-1,1,1,1,-1,1,1
+959,"More crybabies heard from. He did drugs, he\'s fat he didn\'t go to harvard He wasn\'t on saturday night live wah wah wah we lost. We can\'t get married boo hoo hoo.",-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+960,Have never listened to a radio show as much as I do Opieand Anthony,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+961,Was the greatest show on radio. Who was this last person phil boyce or jerry agar,1,Radio,SocialMedia,No,-1,1,-1,1,1,1,1
+962,"Howard is the King and always will be, all others are weak clones",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+963,I even turn off Sirius to listen to this...and with Val -- jackpot !,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+964,Nothin is better the moring than listening to howard. I am the common man workin long hours in construction and being able to hear howard during the day makes it easier for me to get thru it.,1,Radio,SocialMedia,No,-1,-1,1,1,1,-1,1
+965,The show is efffen awesome. Always has been and always  will be. Now the quality is matched with the quantity LESS COMMERCIALS AND MORE SHOW.,1,Radio,SocialMedia,No,-1,1,1,1,1,-1,1
+966,"Great engaging topics, love the cast banter.  Local tie-ins a bonus unlike other shows carried from other regions.",1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+967,Mark & Kris were the BEST show EVER!  Them being taken off of the air was a tremendous heart break to all of their faithful,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+968,Shake it Up!! Ferrall grows on you like a disease. I like him in doses and think he is a great addition to the lineup.,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+969,Awesome!  Even better on satellite than terrestrial radio.  O&A are a couple of jealous losers.,1,Radio,SocialMedia,No,-1,1,1,1,-1,1,1
+970,I have been a stern fan for 10 plus years got sirius for him and love his new show will be a fan for many years to come. thanks howard F jackie,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+971,This the best show on radio hands down. The Dog House should be the morning show in NY,1,Radio,SocialMedia,No,-1,1,1,1,-1,1,1
+972,"Admiro mucho al cucuy desde el 2000 que lo empeza a escuchar,su programa es muy bueno in fact the best",1,Radio,SocialMedia,No,1,1,1,1,-1,1,1
+973,"Opie and Anthony are the best show on Satelite, not to mention Free FM.",1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+974,Better than ever. Howard has a new pep in his step after leaving terrestrial. His last few shows on terrestrial radio he sounded kind of depressed. The new shows at Sirius have been awesome thus far.,1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+975,"Deep commentary, funny but very biased defending at any cost almost every Bush Administration decisions",-1,Radio,SocialMedia,No,-1,-1,-1,1,-1,-1,-1
+976,The show has been drastically better on sirius.  It\'s nice to hear them comfortable and not worried about anything any longer.,1,Radio,SocialMedia,No,-1,-1,1,1,1,1,1
+977,"Good Morning show, with alot of good guests, and production skits",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+978,"Much better than other local and national radio shows - the train wrecks make the show, and even if they didnt happen they still would be the best show - i guess it\'s just hard to explain",1,Radio,SocialMedia,No,-1,-1,1,-1,1,1,1
+979,"I love this show and am hooked now. They need a solid listening to get their humor. It\'s a fast upbeat show, and the only show where the interviews don\'t bore me.",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+980,"It is a great show. Opie, Anthony, and Jim Norton interact very fluidly. Their show is a shining gem amongst absolute crap in West Palm Beach-Boca Raton area.",1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+981,The best show on radio by far. Opie is the reason I am getting into radio.,1,Radio,SocialMedia,No,1,1,1,1,-1,1,1
+982,"Excellent show.  Very intelligent and funny.  Much better than that low-brow, stupid high school moronic humor over at rover\'s morning glory hole.",1,Radio,SocialMedia,No,1,1,-1,1,1,1,1
+983,Top Notch show! The morning flys by now. Keep up the great guys!,1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+984,Opie and Anthony are by far better than all of the competition.,1,Radio,SocialMedia,No,-1,1,1,1,1,1,1
+985,Your true fans really miss you. Your true fans are not listening to your former radio station any longer. We hope you come back soon.,1,Radio,SocialMedia,No,1,1,1,-1,1,-1,1
+986,They are the best I look forward to their show every morning. I love second date update and war of the roses. Carrie is a wonderful cohost and adds great humor to the show,1,Radio,SocialMedia,No,1,1,1,1,1,1,1
+987,Choked on O+A conflict. Not alot of new stuff like Don and Mike only younger and with a case of Red-Bull.,-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+988,Meh.  Already-mediocre night-time talk migrated to mornings.  Thank god for the music or this would be 5 hours of uniterrupted pain.,-1,Radio,SocialMedia,No,-1,-1,-1,-1,1,1,-1
+989,Spends the majority of their time berating the competition...that\'s not entertainment.,-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+990,"I listened to Howard for years,  But I refuse to pay for radio when it\'s free someplace else. Yes I miss listening, but I can\'t afford to pay for radio.",-1,Radio,SocialMedia,No,-1,1,-1,-1,1,1,-1
+991,His show is all exaggeration and hyperbole.  His unbridaled hubris knows no bounds.,-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+992,"Mr. Obvious is funny, however, the show overall just sucks! Their courtesy laughs just get annoying!",-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+993,Does anyone really enjoy all that morning funny,-1,Radio,SocialMedia,No,-1,-1,1,-1,-1,-1,-1
+994,He pushes the limits and for those who don\'t like him . find something else to listen to and shut your mouth if it aint for you turn it off and let the rest of us listen in peace,1,Radio,SocialMedia,No,1,1,1,1,-1,-1,1
+995,"Its ok for stern to take pot shots and run skits on others but cannot take it when the tables are turned on him, all in the name of free speach.",-1,Radio,SocialMedia,No,-1,-1,-1,-1,1,-1,-1
+996,"Horrible,mean spirited.long drawn out questions in interviews.way to many commercials.supposed to be a sports talk show,but spends most of the show talking about the female anatomy.",-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,-1,-1
+997,"I heard the hype about these guys and to be honest, I don\'t get it.  The show is very generic and sounds like everything else on the radio.",-1,Radio,SocialMedia,No,-1,-1,-1,1,-1,1,-1
+998,Negative reviews are correct.  This guy is a Stern rip off.  A true testament to the****ty medium that is radio.,-1,Radio,SocialMedia,No,-1,-1,-1,-1,-1,1,-1
+999,Annoying and obnoxious - I don\'t understand why airamerica replaced Sam Seder with this - I can\'t listen for more than 5 minutes.,-1,Radio,SocialMedia,No,1,-1,-1,-1,-1,-1,-1
+1000,This show has proven it is nothing above mediocore. I\'m only hoping CBS realizes this and drops this show for Opie and Anthony!,-1,Radio,SocialMedia,No,1,-1,-1,-1,-1,-1,-1

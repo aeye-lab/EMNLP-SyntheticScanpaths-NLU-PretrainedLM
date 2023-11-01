@@ -1,0 +1,28 @@
+Eye-tracking and Sentiment Analysis Dataset-II
+
+The parent directory contains two files:
+
+(1) "Fixtion_Sequence.csv" -  Contains fixation sequence data. For each participant, for each sentence, words in the sentence are presented in 
+the order they were fixated, along with the fixation duration in milliseconds.  
+	Columns:
+		Participant_ID	- ID of the participant. 
+		Text_ID	 - ID of the sentence currently being seen. 
+		Word_ID - ID of the word currently fixated (1st word of the sentence, id -> 1, second word -> id 2)
+		Word- Word currently fixated
+		Fixation_Duration- Duration of the fixation 
+
+(2) "text_and_annorations.csv" - Contains Sentences taken for our experiment and Annotation results.
+	Columns:
+		Text_ID - Id of the text	
+		Text - 	Sentence(s).
+		Default_Polarity - Gold polarity label [-1 for negative sentiment and 1 for positive sentiment]
+		Aspect - Entity with respect to which sentiment is expressed.	
+		Source - From where the text has been obtained.	
+		Sarcasm - Whether the text contains irony/sarcasm or not.
+		[P1	P2	P3	P4	P5	P6	P7] -> Annotation given by the participant [-1 ->Negative and 1 ->Positive]
+
+For dataset related details and other details regarding data collection procedure, please refer to the following paper:
+
+Abhijit Mishra, Diptesh Kanojia and Pushpak Bhattacharyya, Predicting Readers' Sarcasm Understandability by Modelling Gaze Behaviour, AAAI 2016, Phoenix, USA, Feb 12-17, 2016. 
+
+If you are using this dataset, please cite the above paper. 
