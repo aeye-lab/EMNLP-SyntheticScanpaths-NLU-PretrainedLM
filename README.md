@@ -22,6 +22,27 @@ Download precomputed sn_word_len mean and std (from CELER dataset) for Eyettenti
 wget https://github.com/aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM/releases/download/v1.0/feature_norm_celer.pickle
 ```
 
+# To reproduce the results in Section 3.2:
+```
+python run_ETSA_ours.py
+python run_ETSA_bert.py
+python run_ETSA_PLM_AS.py
+```
+
+# To reproduce the results in Section 3.3:
+```
+python run_glue_ours_high_resource.py
+python run_glue_ours_low_resource.py
+python run_glue_bert_high_resource.py
+python run_glue_bert_low_resource.py
+```
+
+# To pre-train the Eyettention model:
+```
+run_pretrain_eyettention_celer_position_prediction.py
+```
+For more details see https://github.com/aeye-lab/Eyettention
+
 ## Cite our work
 If you use our code for your research, please consider citing our paper:
 
