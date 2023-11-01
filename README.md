@@ -38,11 +38,11 @@ python run_glue_bert_high_resource.py
 python run_glue_bert_low_resource.py
 ```
 
-To pre-train the Eyettention model:
+To pre-train the Eyettention model (For more details see https://github.com/aeye-lab/Eyettention):
 ```
 run_pretrain_eyettention_celer_position_prediction.py
 ```
-For more details see https://github.com/aeye-lab/Eyettention
+
 
 ## Cite our work
 If you use our code for your research, please consider citing our paper:
