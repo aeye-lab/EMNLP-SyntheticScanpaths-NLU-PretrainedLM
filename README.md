@@ -3,7 +3,7 @@
 
 In this paper, we develop a model that integrates synthetic scanpath generation with a scanpath-augmented language model, eliminating the need for human gaze data. Since the model’s error gradient can be propagated throughout all parts of the model, the scanpath generator can be fine-tuned to downstream tasks. We find that the proposed model not only outperforms the underlying language model, but achieves a performance that is comparable to a language model augmented with real human gaze data.
 
-## Run Experiments
+## Setup
 Clone repository:
 
 ```
@@ -22,14 +22,15 @@ Download precomputed sn_word_len mean and std (from CELER dataset) for Eyettenti
 wget https://github.com/aeye-lab/EMNLP-SyntheticScanpaths-NLU-PretrainedLM/releases/download/v1.0/feature_norm_celer.pickle
 ```
 
-# To reproduce the results in Section 3.2:
+## Run Experiments
+To reproduce the results in Section 3.2:
 ```
 python run_ETSA_ours.py
 python run_ETSA_bert.py
 python run_ETSA_PLM_AS.py
 ```
 
-# To reproduce the results in Section 3.3:
+To reproduce the results in Section 3.3:
 ```
 python run_glue_ours_high_resource.py
 python run_glue_ours_low_resource.py
@@ -37,7 +38,7 @@ python run_glue_bert_high_resource.py
 python run_glue_bert_low_resource.py
 ```
 
-# To pre-train the Eyettention model:
+To pre-train the Eyettention model:
 ```
 run_pretrain_eyettention_celer_position_prediction.py
 ```
