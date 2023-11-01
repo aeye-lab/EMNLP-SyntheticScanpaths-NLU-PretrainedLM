@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Download precomputed sn_word_len mean and std (from CELER dataset) for Eyettention model feature normalization:
 
 ```
-!wget https://github.com/aeye-lab/Eyettention/releases/download/v1.0/feature_norm_celer.pickle
+wget https://github.com/aeye-lab/Eyettention/releases/download/v1.0/feature_norm_celer.pickle
 ```
 
 ## Cite our work
