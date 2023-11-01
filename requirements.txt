@@ -1,0 +1,14 @@
+accelerate==0.13.0
+datasets==2.14.5
+evaluate==0.4.0
+huggingface_hub==0.17.2
+matplotlib==3.5.1
+numpy==1.21.5
+pandas==1.4.2
+scikit_learn==1.0.2
+scipy==1.7.3
+seaborn==0.11.2
+torch==1.10.0+cu111
+torch==2.0.0
+tqdm==4.64.0
+transformers==4.27.0
