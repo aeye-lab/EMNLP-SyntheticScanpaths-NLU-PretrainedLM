@@ -1,5 +1,5 @@
 # Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding
-[![paper](https://img.shields.io/static/v1?label=paper&message=download%20link&color=brightgreen)](https://arxiv.org/abs/2310.14676)
+[![paper](https://img.shields.io/static/v1?label=paper&message=download%20link&color=brightgreen)](https://aclanthology.org/2023.emnlp-main.400/)
 
 In this paper, we develop a model that integrates synthetic scanpath generation with a scanpath-augmented language model, eliminating the need for human gaze data. Since the model’s error gradient can be propagated throughout all parts of the model, the scanpath generator can be fine-tuned to downstream tasks. We find that the proposed model not only outperforms the underlying language model, but achieves a performance that is comparable to a language model augmented with real human gaze data.
 
