@@ -431,3 +431,11 @@ def load_position_label(sp_pos, cf, labelencoder, device):
 	else:
 		label = torch.from_numpy(label).to(device)
 	return pad_mask, label
+
+
+def pad_seq_with_nan_for_celer(seqs, max_len, dtype=np.compat.long):
+	padded = np.full((len(seqs), max_len), fill_value=np.nan, dtype=dtype)
+	for i, seq in enumerate(seqs):
+		padded[i, 1:(len(seq)+1)] = seq
+	return padded
+
