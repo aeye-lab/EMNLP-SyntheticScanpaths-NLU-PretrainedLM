@@ -48,17 +48,22 @@ run_pretrain_eyettention_celer_position_prediction.py
 If you use our code for your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{deng2023-augmented,
-    author = "Deng, Shuwen and Prasse, Paul and Reich, David R. and Scheffer, Tobias and J{\"a}ger, Lena A.",
-    title = "{P}re-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding",
-    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)",
-    year = "2023",
+@inproceedings{deng-etal-2023-pre,
+    title = "Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding",
+    author = {Deng, Shuwen  and
+      Prasse, Paul  and
+      Reich, David  and
+      Scheffer, Tobias  and
+      J{\"a}ger, Lena},
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
     month = dec,
-    address = "Singapore, Singapore",
+    year = "2023",
+    address = "Singapore",
     publisher = "Association for Computational Linguistics",
-    url = "",
-    doi = "",
-    pages = ""
+    url = "https://aclanthology.org/2023.emnlp-main.400",
+    doi = "10.18653/v1/2023.emnlp-main.400",
+    pages = "6500--6507",
 }
+
 ```
 
